@@ -29,7 +29,7 @@ export function CityHubHero({
         className={styles.bgImage}
       >
         <Image
-          src="/demir/storefront.webp"
+          src="/demir/werkstatt-schluesselwand.webp"
           alt=""
           fill
           priority

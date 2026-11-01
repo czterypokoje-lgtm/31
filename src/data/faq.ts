@@ -134,6 +134,50 @@ export const serviceFaq: Record<ServiceSlug, FaqItem[]> = {
       a: "Bei einem Schlüssel mit Adressbezug oder einem Anlagenschlüssel ist eine Meldung an Vermieter oder Verwaltung sinnvoll. Bei Diebstahl kommt zusätzlich eine Anzeige in Betracht.",
     },
   ],
+  "schluessel-abgebrochen": [
+    {
+      q: "Kann ich das abgebrochene Stück selbst herausziehen?",
+      a: "Besser nicht. Mit Pinzette oder Draht wird das Bruchstück meist tiefer geschoben, und beschädigte Zylinderstifte machen aus einer Entfernung einen Austausch.",
+    },
+    {
+      q: "Muss der Zylinder nach einem Schlüsselbruch immer getauscht werden?",
+      a: "Nein. Lässt sich das Reststück schonend ziehen und ist der Zylinder unbeschädigt, kann er oft weiter verwendet werden. Das zeigt sich erst nach der Entfernung.",
+    },
+    {
+      q: "Warum ist der Schlüssel überhaupt abgebrochen?",
+      a: "Meist Verschleiß: Ein oft benutzter Schlüssel wird dünner, das Schloss läuft schwergängig, und irgendwann gibt das Material nach. Wenn ein Schlüssel hakt, ist das ein Vorzeichen.",
+    },
+    {
+      q: "Ich habe noch einen zweiten Schlüssel – hilft das?",
+      a: "Erst, wenn das Bruchstück aus dem Zylinder heraus ist. Solange es steckt, blockiert es den Zylinder auch für den Zweitschlüssel.",
+    },
+    {
+      q: "Kann aus dem Bruchstück ein neuer Schlüssel gemacht werden?",
+      a: "Wenn beide Teile vorhanden und nicht verformt sind, ist eine Anfertigung oft möglich. Gehört der Schlüssel zu einer Schließanlage, ist zusätzlich die Sicherungskarte nötig.",
+    },
+  ],
+  "schluessel-nachmachen": [
+    {
+      q: "Was muss ich zum Nachmachen mitbringen?",
+      a: "Den Originalschlüssel. Bei Schlüsseln mit Sicherungskarte – häufig bei Schließanlagen – zusätzlich diese Karte und einen Ausweis, sonst ist eine Anfertigung nicht zulässig.",
+    },
+    {
+      q: "Kann jeder Schlüssel kopiert werden?",
+      a: "Nein. Einfache Wohnungs- und Briefkastenschlüssel in der Regel ja. Geschützte Profile mit Sicherungskarte gibt nur der Hersteller gegen Legitimation frei.",
+    },
+    {
+      q: "Wie lange dauert das?",
+      a: "Ist ein passender Rohling vorrätig, meist wenige Minuten direkt im Laden. Bei selteneren Profilen muss der Rohling bestellt werden.",
+    },
+    {
+      q: "Was kostet ein nachgemachter Schlüssel?",
+      a: "Das hängt vom Profil und vom Rohling ab. Ein einfacher Wohnungsschlüssel liegt deutlich unter den Kosten einer Türöffnung – fragen Sie mit dem Schlüssel in der Hand nach einem konkreten Preis.",
+    },
+    {
+      q: "Lohnt sich ein Zweitschlüssel überhaupt?",
+      a: "In aller Regel ja. Ein Ersatzschlüssel bei Nachbarn oder Verwandten kostet einen Bruchteil dessen, was eine Türöffnung nach dem Aussperren verursacht.",
+    },
+  ],
 };
 
 /**

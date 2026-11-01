@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import FadeIn from './FadeIn';
 import styles from './TrustSection.module.css';
 import { business } from '@/lib/business';
@@ -29,13 +30,23 @@ export default function TrustSection() {
   return (
     <section className={styles.section} aria-label="Vertrauen und Vorgehen">
       <div className={styles.inner}>
-        <FadeIn>
+        {/* .titleArea is capped at 600px, which left the right half of this row empty.
+            Pair it with a photo instead of widening the (checksum-locked) module. */}
+        <FadeIn className="flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
           <div className={styles.titleArea}>
             <h2 className={styles.mainTitle}>DIREKT, VOR ORT, OHNE UMWEGE.</h2>
             <p className={styles.description}>
-              {`${business.name} ist in ${business.address.city} erreichbar und klärt jede Anfrage individuell am Telefon.`}
+              {`${business.name} ist ein Familienbetrieb in ${business.address.city} und klärt jede Anfrage individuell am Telefon.`}
             </p>
           </div>
+          <Image
+            src="/demir/schluessel-vermessen.webp"
+            alt="Güngör Demir vermisst einen Schlüssel – First Class Key, Sindelfingen"
+            width={1400}
+            height={2100}
+            sizes="(max-width: 1024px) 0px, 360px"
+            className="hidden lg:block h-56 w-[360px] shrink-0 border border-line object-cover"
+          />
         </FadeIn>
 
         <div className={styles.badgesGrid}>

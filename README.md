@@ -1,48 +1,44 @@
-# First Class Key — Türöffnung Sindelfingen
+# Güngör Demir – Türöffnung
 
-German home-lockout locksmith site for **First Class Key** (Inhaber: Güngör Demir),
-Mercedesstraße 12, 71063 Sindelfingen.
+German home-lockout conversion of Namaken. Original CSS, font configuration, design tokens and motion behavior are retained. Desktop source originals were not modified.
 
-Next.js 16 App Router · Tailwind v4 · static export (`output: "export"`).
-
-## Commands
+## Getting started
 
 ```bash
 npm install
-npm run dev     # development
-npm run build   # static export to out/
-npm run check   # executable site spec — see below
+npm run build
+npm run check
+npm start
 ```
 
-## scripts/check-site.mjs
+Open [http://127.0.0.1:3000](http://127.0.0.1:3000). The preview serves the static `out/` export. No Next.js runtime server or form API is required.
 
-Not a linter — an acceptance spec that runs against `out/`. It asserts a single `<h1>`
-per page, a self-canonical, valid JSON-LD, that every internal link resolves, that city
-indexing matches `data/location-editorial.json`, and that no page makes an **unverified
-claim** (24/7, certifications, ratings, response times, free travel).
+Set `NEXT_PUBLIC_SITE_URL` before building for a different verified domain. `.openai/hosting.json` preserves the Sites identity. Set `TEMPLATE_SOURCE` to the original Namaken directory before `npm run check` to verify byte-identical CSS/fonts/design files.
+
+## Design tokens
+
+Colors and typography are generated from `design/styles.json` (a Framer
+export) via `scripts/build-tokens.mjs`, which writes `src/app/tokens.css`.
+Re-run it after editing `design/styles.json`:
 
 ```bash
-npm run build && TEMPLATE_SOURCE=/path/to/design-source node scripts/check-site.mjs
+node scripts/build-tokens.mjs
 ```
 
-`TEMPLATE_SOURCE` additionally SHA-256-verifies that the CSS modules, `src/lib/fonts.ts`
-and `design/styles.json` are byte-identical to the design source. **Those files must not
-be edited** — size and spacing fixes belong on the element, not in the module.
+## Deploy
 
-## Before launch
+```bash
+npm run build
+```
 
-- [ ] Confirm the domain in `src/lib/business.ts` (every canonical, the sitemap and the schema `@id` derive from it)
-- [ ] Confirm the e-mail address (ships in the Impressum and schema)
-- [ ] **Complete the Impressum** — currently a draft; a German commercial site needs it complete
-- [ ] Confirm prices in `src/lib/pricing.ts` (only the 69 € entry price is confirmed)
-- [ ] Spot-check `distanceKm` in `src/data/locations.ts` against a routing service
+Deploy `out/` to a static host. See [QA report](docs/qa-report.md), [research](docs/seo-research.md) and [SEO workflow](docs/seo-workflow.md).
 
-## Content rules
+Business facts live in `src/lib/business.ts`; service copy in `src/data/lockout.ts`. The 18 AI-authored city drafts in `data/location-editorial.json` feed the shared route automatically. All city drafts remain `noindex` and outside the sitemap until coverage is confirmed. Three technical pilots are Sindelfingen, Stuttgart and Böblingen. Contact is `/kontakt/`, with `/contact/` as a German alias.
 
-Only verified facts ship. The one "years in business" claim (family business, 15 years)
-is owner-confirmed and recorded in `src/lib/business.ts`; anything comparable — ratings,
-job counts, certifications, arrival times — stays off the site until confirmed the same
-way. `docs/seo-workflow.md` has the full rule.
+The two repository SEO skills are manually invokable instructions, not a scheduled autonomous service. Technical checks do not measure ranking or conversion outcomes.
 
-City pages are gated on confirmed coverage: `noindex` in `data/location-editorial.json`
-drives the robots meta, the sitemap and the city×service route generation from one field.
+## Languages
+
+German is the default. The header's DE / EN control switches to the current page's counterpart. English routes start at `/en/`; the route pairs are maintained in `src/lib/languages.ts`. German pages live in `src/app/(de)/` and English pages in `src/app/(en)/en/`. Separate document layouts provide the correct language before JavaScript loads. English city copy lives in `data/location-editorial.en.json`; update it alongside the German editorial file. Shared English service/FAQ copy is in `src/data/english.ts`. See `docs/english-update.md` for validation.
+
+The final domain, business email, prices, hours and complete coverage are not supplied. Impressum/privacy texts remain explicit drafts. New Sites hosting is owner-private; a private deployment is not a public indexed business launch. Complete the missing business facts and connect the intended public hosting/domain before advertising the website.

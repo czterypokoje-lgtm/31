@@ -46,3 +46,24 @@ export const servicePhotos: Record<string, { src: string; alt: string }> = {
     alt: "Defekter Türzylinder wird ausgetauscht",
   },
 };
+
+export type CreditedPhoto = {
+  src: string;
+  alt: string;
+  author: string;
+  source: string;
+  license: string;
+  licenseUrl: string;
+};
+
+/** Wikimedia-sourced cylinder photos, credited in data/photo-credits.json. */
+export const cylinderPhotos: CreditedPhoto[] = credits
+  .filter((p) => p.src.startsWith("/photos/zylinder/"))
+  .map((p) => ({
+    src: p.src,
+    alt: p.alt,
+    author: p.author,
+    source: p.source,
+    license: p.license,
+    licenseUrl: p.licenseUrl,
+  }));

@@ -1,4 +1,6 @@
+import Image from "next/image";
 import Link from "next/link";
+import { cylinderPhotos } from "@/lib/photos";
 import { CylinderContent } from "@/components/CylinderContent";
 import { CtaBand } from "@/components/CtaBand";
 import { breadcrumbSchema, crumb } from "@/lib/schema";
@@ -65,6 +67,45 @@ export default function Page() {
                 <p className="text-heading-4 text-frost">{c.label}</p>
                 <p className="text-body-small text-mist">{c.body}</p>
               </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Explanatory photos. Generic cylinder imagery on purpose: naming a brand on a
+          photo would imply stock or dealership, which docs/seo-workflow.md forbids. */}
+      <section className="border-t border-line px-4 py-16 sm:px-6">
+        <div className="mx-auto max-w-5xl">
+          <h2 className="text-heading-2 text-frost">So sieht das aus.</h2>
+          <p className="text-body-small text-mist mt-2 max-w-2xl">
+            Vier Ansichten, die bei der Beschreibung am Telefon helfen: Bauform, Stulpschraube
+            und der Aufbau im Schnitt.
+          </p>
+          <div className="mt-8 grid gap-6 sm:grid-cols-2">
+            {cylinderPhotos.map((photo) => (
+              <figure key={photo.src} className="border border-line bg-navy-surface">
+                <Image
+                  src={photo.src}
+                  alt={photo.alt}
+                  width={1400}
+                  height={1000}
+                  sizes="(max-width: 640px) 100vw, 480px"
+                  className="aspect-[4/3] w-full object-cover"
+                />
+                <figcaption className="p-4">
+                  <p className="text-body-small text-frost">{photo.alt}</p>
+                  <p className="text-mono text-faint mt-2">
+                    Foto: {photo.author} ·{" "}
+                    <a className="underline" href={photo.source} target="_blank" rel="noopener noreferrer">
+                      Quelle
+                    </a>{" "}
+                    ·{" "}
+                    <a className="underline" href={photo.licenseUrl} target="_blank" rel="noopener noreferrer">
+                      {photo.license}
+                    </a>
+                  </p>
+                </figcaption>
+              </figure>
             ))}
           </div>
         </div>

@@ -129,7 +129,13 @@ export default async function Page({ params }: { params: Promise<{ stadt: string
               title={s.name}
               description={s.heroSub}
               price={priceLabel(s.priceFrom)}
-              href={l.indexed ? `/tueroeffnung/${l.slug}/${s.slug}/` : `/leistungen/${s.slug}/`}
+              // Counter services have no city×service page — nobody drives to
+              // another city for a key copy — so they link to the service page.
+              href={
+                l.indexed && s.isCallout
+                  ? `/tueroeffnung/${l.slug}/${s.slug}/`
+                  : `/leistungen/${s.slug}/`
+              }
               index={i}
             />
           ))}

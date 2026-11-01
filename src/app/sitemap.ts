@@ -29,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const cityPaths = indexedLocations.map((l) => `/tueroeffnung/${l.slug}`);
 
   const cityServicePaths = indexedLocations.flatMap((l) =>
-    services.map((s) => `/tueroeffnung/${l.slug}/${s.slug}`)
+    services.filter((s) => s.isCallout).map((s) => `/tueroeffnung/${l.slug}/${s.slug}`)
   );
 
   return [...staticPaths, ...servicePaths, ...cityPaths, ...cityServicePaths].map((path) => ({

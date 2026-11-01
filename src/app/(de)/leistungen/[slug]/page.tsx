@@ -56,12 +56,21 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
         sub={s.heroSub}
         image={s.heroImage}
         imageAlt={s.heroImageAlt}
-        stats={[
-          { label: "PREIS", value: priceLabel(s.priceFrom), orange: true },
-          { label: "ANFAHRT AB", value: "SINDELFINGEN" },
-          { label: "LEGITIMATION", value: "AUSWEIS NÖTIG" },
-          { label: "ANGEBOT", value: "VOR DEM AUFTRAG" },
-        ]}
+        stats={
+          s.isCallout
+            ? [
+                { label: "PREIS", value: priceLabel(s.priceFrom), orange: true },
+                { label: "ANFAHRT AB", value: "SINDELFINGEN" },
+                { label: "LEGITIMATION", value: "AUSWEIS NÖTIG" },
+                { label: "ANGEBOT", value: "VOR DEM AUFTRAG" },
+              ]
+            : [
+                { label: "PREIS", value: priceLabel(s.priceFrom), orange: true },
+                { label: "VOR ORT", value: "LADEN SINDELFINGEN" },
+                { label: "MITBRINGEN", value: "ORIGINALSCHLÜSSEL" },
+                { label: "SICHERUNGSKARTE", value: "FALLS VORHANDEN" },
+              ]
+        }
       />
 
       <section className="border-t border-line px-4 py-16 sm:px-6">
@@ -88,13 +97,13 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
           and the one competitor pages in this market rank on. */}
       <section className="border-t border-line bg-navy-surface px-4 py-16 sm:px-6">
         <div className="mx-auto max-w-5xl">
-          <p className="text-eyebrow text-mist">Türzustand</p>
-          <h2 className="text-heading-3 text-frost mt-2 mb-4">Zugefallen oder abgeschlossen?</h2>
+          <p className="text-eyebrow text-mist">{s.isCallout ? "Türzustand" : "Vor der Anfertigung"}</p>
+          <h2 className="text-heading-3 text-frost mt-2 mb-4">{s.conditionHeading}</h2>
           <p className="text-body text-mist max-w-3xl">{s.conditionNote}</p>
         </div>
       </section>
 
-      <TimeLine />
+      {s.isCallout && <TimeLine />}
 
       {s.includesCylinderSection && <CylinderTeaser />}
 
@@ -103,7 +112,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
       <section className="border-t border-line px-4 py-12 sm:px-6">
         <div className="mx-auto max-w-5xl">
           {/* Only cities with confirmed coverage get a city×service page to link to. */}
-          {indexedLocations.length > 0 && (
+          {s.isCallout && indexedLocations.length > 0 && (
             <>
               <h2 className="text-heading-3 text-frost mb-2">{s.name} in Ihrer Stadt</h2>
               <p className="text-body-small text-mist mb-6">

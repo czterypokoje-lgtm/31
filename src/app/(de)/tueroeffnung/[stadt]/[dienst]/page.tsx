@@ -23,7 +23,9 @@ import { Faq } from "@/components/Faq";
  * the "city-name-swapped thin page" docs/seo-workflow.md bans.
  */
 export function generateStaticParams() {
-  return indexedLocations.flatMap((l) => services.map((s) => ({ stadt: l.slug, dienst: s.slug })));
+  return indexedLocations.flatMap((l) =>
+    services.filter((s) => s.isCallout).map((s) => ({ stadt: l.slug, dienst: s.slug }))
+  );
 }
 
 export async function generateMetadata({
@@ -124,8 +126,8 @@ export default async function Page({
 
       <section className="border-t border-line bg-navy-surface px-4 py-16 sm:px-6">
         <div className="mx-auto max-w-5xl">
-          <p className="text-eyebrow text-mist">Türzustand</p>
-          <h2 className="text-heading-3 text-frost mt-2 mb-4">Zugefallen oder abgeschlossen?</h2>
+          <p className="text-eyebrow text-mist">{s.isCallout ? "Türzustand" : "Vor der Anfertigung"}</p>
+          <h2 className="text-heading-3 text-frost mt-2 mb-4">{s.conditionHeading}</h2>
           <p className="text-body text-mist max-w-3xl">{s.conditionNote}</p>
         </div>
       </section>
@@ -137,7 +139,7 @@ export default async function Page({
           <h2 className="text-heading-3 text-frost mb-6">Weitere Hilfe in {l.name}</h2>
           <div className="mb-8 flex flex-wrap gap-x-6 gap-y-3">
             {services
-              .filter((o) => o.slug !== s.slug)
+              .filter((o) => o.slug !== s.slug && o.isCallout)
               .map((o) => (
                 <Link
                   key={o.slug}

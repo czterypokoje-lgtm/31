@@ -77,14 +77,25 @@ export default function Page() {
       </section>
 
       <section className="border-t border-line px-4 py-16 sm:px-6">
-        <div className="mx-auto max-w-5xl">
+        <div className="mx-auto grid max-w-5xl items-center gap-10 md:grid-cols-[minmax(0,420px)_1fr]">
+          {/* 2:3 portrait — full width would be enormously tall, so cap the column. */}
           <Image
-            src="/demir/about-portrait.webp"
-            alt="Güngör Demir in seiner Werkstatt"
-            width={1200}
-            height={800}
+            src="/demir/inhaber-portrait.webp"
+            alt="Güngör Demir, Inhaber von First Class Key, in seiner Werkstatt in Sindelfingen"
+            width={1400}
+            height={2100}
+            sizes="(max-width: 768px) 100vw, 420px"
             className="w-full border border-line object-cover"
           />
+          <div>
+            <p className="text-eyebrow text-mist">Der Inhaber</p>
+            <h2 className="text-heading-2 text-frost mt-2">{business.owner}</h2>
+            <p className="text-body text-mist mt-4">
+              Werkstatt und Ladengeschäft in Sindelfingen: Schlüsselrohlinge, Fräsmaschine und
+              Werkzeug für Türöffnungen. Wer anruft, bekommt den Mann ans Telefon, der danach
+              auch vor der Tür steht.
+            </p>
+          </div>
         </div>
       </section>
 

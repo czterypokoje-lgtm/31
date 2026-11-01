@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import styles from './TimeLine.module.css';
 import { motion } from 'framer-motion';
 
@@ -47,6 +48,16 @@ export default function TimeLine() {
               Von Ihrem Anruf<br />bis zur geöffneten Tür.
             </motion.h2>
           </div>
+
+          {/* .sectionHeader is flex/space-between, so this fills the empty right half. */}
+          <Image
+            src="/demir/schluesselfraese.webp"
+            alt="Güngör Demir fertigt in der Werkstatt in Sindelfingen einen Schlüssel an"
+            width={1400}
+            height={2100}
+            sizes="(max-width: 900px) 0px, 300px"
+            className="hidden lg:block h-48 w-[300px] shrink-0 border border-line object-cover"
+          />
         </div>
 
         <ol className={styles.steps}>
@@ -59,11 +70,11 @@ export default function TimeLine() {
               viewport={{ once: true, margin: "-100px" }}
               transition={{ duration: 0.6, delay: idx * 0.15 }}
             >
-              <div className={styles.stepTime}>
-                <span className={styles.stepClock}>{step.time}</span>
+              <div className={styles.timeCol}>
+                <span className={styles.timestamp}>{step.time}</span>
                 <span className={styles.stepCounter}>{step.counter}</span>
               </div>
-              <div className={styles.stepContent}>
+              <div className={styles.contentCol}>
                 <h3 className={styles.stepHeading}>{step.heading}</h3>
                 <p className={styles.stepText}>{step.text}</p>
               </div>
