@@ -1,0 +1,2009 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Boeblingen_oberer-see_stadtkirche.jpg",
+        "to": "File:Boeblingen oberer-see stadtkirche.jpg"
+      },
+      {
+        "from": "File:Esslingen_a.N._Fall_2023.jpg",
+        "to": "File:Esslingen a.N. Fall 2023.jpg"
+      },
+      {
+        "from": "File:Fellbach_from_Strümpfelbach_-_Oct_16,_2021.jpg",
+        "to": "File:Fellbach from Strümpfelbach - Oct 16, 2021.jpg"
+      },
+      {
+        "from": "File:Bonlanden_Franzosenschule_01.jpg",
+        "to": "File:Bonlanden Franzosenschule 01.jpg"
+      },
+      {
+        "from": "File:Freiburg_im_Breisgau_Münster.jpg",
+        "to": "File:Freiburg im Breisgau Münster.jpg"
+      },
+      {
+        "from": "File:Königstuhl,_Heidelberg,_U-17.jpg",
+        "to": "File:Königstuhl, Heidelberg, U-17.jpg"
+      },
+      {
+        "from": "File:Heilbronn_Innenstadt_u_Wartberg_20050918.jpg",
+        "to": "File:Heilbronn Innenstadt u Wartberg 20050918.jpg"
+      },
+      {
+        "from": "File:Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg",
+        "to": "File:Karlsruhe asv2022-10 img07 Schloss Karlsruhe.jpg"
+      },
+      {
+        "from": "File:Ludwigsburg_Palace_December_2018.jpg",
+        "to": "File:Ludwigsburg Palace December 2018.jpg"
+      },
+      {
+        "from": "File:Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg",
+        "to": "File:Altes Rathaus und Sankt Sebastianskirche auf dem Mannheimer Marktplatz.jpg"
+      },
+      {
+        "from": "File:Panorama_Nagold,_Stadtkirche_und_Enz_(1).jpg",
+        "to": "File:Panorama Nagold, Stadtkirche und Enz (1).jpg"
+      },
+      {
+        "from": "File:Reutlingen_Achalm_2012-04.jpg",
+        "to": "File:Reutlingen Achalm 2012-04.jpg"
+      },
+      {
+        "from": "File:Sindelfingen_martinskirche.jpg",
+        "to": "File:Sindelfingen martinskirche.jpg"
+      },
+      {
+        "from": "File:Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg",
+        "to": "File:Neues Schloss Schlossplatzspringbrunnen Schlossplatz Stuttgart 2015 01.jpg"
+      },
+      {
+        "from": "File:Ulm_Panorama_01.jpg",
+        "to": "File:Ulm Panorama 01.jpg"
+      },
+      {
+        "from": "File:Marktplatz_4,_Rathaus_Waiblingen_20220702_0129.jpg",
+        "to": "File:Marktplatz 4, Rathaus Waiblingen 20220702 0129.jpg"
+      }
+    ],
+    "pages": {
+      "153439392": {
+        "pageid": 153439392,
+        "ns": 6,
+        "title": "File:Altes Rathaus und Sankt Sebastianskirche auf dem Mannheimer Marktplatz.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg/1920px-Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg/3840px-Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg/1920px-Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg/3840px-Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153439392",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-10-01 16:27:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Altes Rathaus und Sankt Sebastianskirche auf dem Mannheimer Marktplatz",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Altes Rathaus (Mannheim)|St. Sebastian (Mannheim)|Self-published work|Files with coordinates missing SDC location of creation (49° N, 8° E)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "49.489650",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.467346",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Town Hall and St Sebastian's Church on Mannheim's market square",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-13 21:11:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Georg_Buzin\" title=\"User:Georg Buzin\">Georg Buzin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "146332": {
+        "pageid": 146332,
+        "ns": 6,
+        "title": "File:Boeblingen oberer-see stadtkirche.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Boeblingen_oberer-see_stadtkirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1200,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Boeblingen_oberer-see_stadtkirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1200
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Boeblingen_oberer-see_stadtkirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Boeblingen_oberer-see_stadtkirche.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146332",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2005-05-18 05:06:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Boeblingen oberer-see stadtkirche",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-FZ20|CC-BY-SA-2.5,2.0,1.0|Files with no machine-readable source|License migration redundant|Oberer See (Böblingen)|Self-published work|Assumed own work|Photographs taken on 2005-05-12",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Boeblingen, Germany. Lake Oberer See and church Stadtkirche St. Dionysius.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 May 2005 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/wiki/User:JuergenG\" title=\"User:JuergenG\">JuergenG</a> assumed (based on copyright claims).",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14862006": {
+        "pageid": 14862006,
+        "ns": 6,
+        "title": "File:Bonlanden Franzosenschule 01.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bonlanden_Franzosenschule_01.jpg/1920px-Bonlanden_Franzosenschule_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bonlanden_Franzosenschule_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bonlanden_Franzosenschule_01.jpg/1920px-Bonlanden_Franzosenschule_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bonlanden_Franzosenschule_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bonlanden_Franzosenschule_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bonlanden_Franzosenschule_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14862006",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-04-10 14:24:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bonlanden Franzosenschule 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon Digital IXUS 95 IS|Self-published work|Files with coordinates missing SDC location of creation (48° N, 9° E)|Alte Schule (Bonlanden)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.652083",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.217847",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Alte Schule in <a href=\"https://de.wikipedia.org/wiki/Bonlanden_auf_den_Fildern\" class=\"extiw\" title=\"de:Bonlanden auf den Fildern\">Filderstadt-Bonlanden</a>, 1770 bis 1773 erbaut. Oberdorfstraße 10",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-04-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Schw%C3%A4bin\" title=\"User:Schwäbin\">Schwäbin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Schw%C3%A4bin\" title=\"User:Schwäbin\">Schwäbin (Wikimedia)</a><br> License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/legalcode\">CreativeCommons by-sa-3.0-de</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">deed</a>)",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "152561008": {
+        "pageid": 152561008,
+        "ns": 6,
+        "title": "File:Esslingen a.N. Fall 2023.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Esslingen_a.N._Fall_2023.jpg/1920px-Esslingen_a.N._Fall_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 805,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Esslingen_a.N._Fall_2023.jpg/3840px-Esslingen_a.N._Fall_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Esslingen_a.N._Fall_2023.jpg/1920px-Esslingen_a.N._Fall_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 805,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Esslingen_a.N._Fall_2023.jpg/3840px-Esslingen_a.N._Fall_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Esslingen_a.N._Fall_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Esslingen_a.N._Fall_2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152561008",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-13 03:08:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Esslingen a.N. Fall 2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation (48° N, 9° E)|City of Esslingen, Germany",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.744548",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.308531",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The city Esslingen a.N. in Germany, Fall 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-10-27 12:11:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Qwerty123uiop&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Qwerty123uiop (page does not exist)\">Qwerty123uiop</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "111811802": {
+        "pageid": 111811802,
+        "ns": 6,
+        "title": "File:Fellbach from Strümpfelbach - Oct 16, 2021.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg/1920px-Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 901,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg/3840px-Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg/1920px-Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 901,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg/3840px-Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16,_2021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111811802",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-10-27 06:58:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fellbach from Strümpfelbach - Oct 16, 2021",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Strümpfelbach (Weinstadt)|SLT 107 Schwabenlandtower|Vineyards of Rems-Murr-Kreis|Baden-Württemberg photographs taken on 2021-10-16|Flickr images reviewed by FlickreviewR 2|Files uploaded by User:Krorokeroro|Views of Fellbach|Files with coordinates missing SDC location of creation (48° N, 9° E)|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.785339",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.367850",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fellbach from Strümpfelbach, Baden-Württemberg, Germany. The high-rise building in the center is <a href=\"https://de.wikipedia.org/wiki/SLT_107_Schwabenlandtower\" class=\"extiw\" title=\"de:SLT 107 Schwabenlandtower\">SLT 107 Schwabenlandtower</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-10-16 16:28:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/157371708@N03/51631063753/\">https://www.flickr.com/photos/157371708@N03/51631063753/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Karlheinz Nast",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122804428": {
+        "pageid": 122804428,
+        "ns": 6,
+        "title": "File:Freiburg im Breisgau Münster.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Freiburg_im_Breisgau_M%C3%BCnster.jpg/1920px-Freiburg_im_Breisgau_M%C3%BCnster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1394,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Freiburg_im_Breisgau_M%C3%BCnster.jpg/3840px-Freiburg_im_Breisgau_M%C3%BCnster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Freiburg_im_Breisgau_M%C3%BCnster.jpg/1920px-Freiburg_im_Breisgau_M%C3%BCnster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1394,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Freiburg_im_Breisgau_M%C3%BCnster.jpg/3840px-Freiburg_im_Breisgau_M%C3%BCnster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Freiburg_im_Breisgau_M%C3%BCnster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Freiburg_im_Breisgau_M%C3%BCnster.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122804428",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-08 16:44:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Freiburg im Breisgau Münster",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Wiki Loves Monuments 2022 in Germany|Exterior of Freiburg Minster|Self-published work|Uploaded via Campaign:wlm-de-bw|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2022|Images from Wiki Loves Monuments 2022, DE-BW",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Außenansicht des Münsters in Freiburg im Breisgau",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-09-12 11:23:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Carl_M%C3%B6ller\" title=\"User:Carl Möller\">C. M.</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "414960": {
+        "pageid": 414960,
+        "ns": 6,
+        "title": "File:Heilbronn Innenstadt u Wartberg 20050918.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Heilbronn_Innenstadt_u_Wartberg_20050918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1064,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Heilbronn_Innenstadt_u_Wartberg_20050918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1064
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Heilbronn_Innenstadt_u_Wartberg_20050918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Heilbronn_Innenstadt_u_Wartberg_20050918.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=414960",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-03-26 16:29:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Heilbronn Innenstadt u Wartberg 20050918",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wartberg (Heilbronn)|Theaterforum K3|GFDL|Taken with Nikon D70|Deutschordensmünster Heilbronn|Images with annotations|Kilianskirche (Heilbronn)|License migration redundant|Wartbergkirche (Heilbronn)|Shoppinghaus|Self-published work|Church towers in Heilbronn|2005 in Heilbronn|Cityscapes of Heilbronn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Inner city of <a href=\"https://en.wikipedia.org/wiki/Heilbronn\" class=\"extiw\" title=\"en:Heilbronn\">Heilbronn</a> (Germany) as seen from the Rosenberg high rise",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005-09-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "K. Jähne",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128509439": {
+        "pageid": 128509439,
+        "ns": 6,
+        "title": "File:Karlsruhe asv2022-10 img07 Schloss Karlsruhe.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg/1920px-Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg/3840px-Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg/1920px-Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 800,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg/3840px-Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128509439",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-08 01:23:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Karlsruhe asv2022-10 img07 Schloss Karlsruhe",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "FAL|Schlossplatz (Karlsruhe)|Exterior of Karlsruhe Palace|Flower beds in Baden-Württemberg|Photographs by A.Savin taken in 2022|Karlsruhe photographs taken on 2022-10-11|Files with coordinates missing SDC location of creation (49° N, 8° E)|Gray clouds in Baden-Württemberg|Photographs by A.Savin/Germany|Taken with Sony ILCE-7RM3 and Sony FE 24-105mm F4 G OSS",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "49.011361",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.404139",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The palace in Karlsruhe, Baden-Württemberg, Germany",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-10-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<b><span class=\"plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:A.Savin\">A.Savin</a></span></b>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"background:#DDFFFF\">\n<p><b><a href=\"https://en.wikipedia.org/wiki/en:Free_Art_License\" class=\"extiw\" title=\"w:en:Free Art License\">Free Art License</a></b>. Correct attribution is «<i><b>A.Savin, Wikipedia</b></i>». Free usage of the photo, no need to ask for approval.\n</p>\n<hr>\n<p><b><a href=\"https://en.wikipedia.org/wiki/ru:%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_Free_Art\" class=\"extiw\" title=\"w:ru:Лицензия Free Art\">Лицензия Свободное искусство</a></b>. Корректное указание авторства — «<i><b>А.Савин, Википедия</b></i>». Использование фотографии бесплатно, согласование не требуется.\n</p>\n<hr>\n<p><b><a href=\"https://en.wikipedia.org/wiki/de:Lizenz_Freie_Kunst\" class=\"extiw\" title=\"w:de:Lizenz Freie Kunst\">Lizenz Freie Kunst</a></b>. Korrekte Autorenkennzeichnung ist «<i><b>A.Savin, Wikipedia</b></i>». Nutzung des Fotos kostenlos, Anfrage nicht erforderlich.\n</p>\n</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "FAL",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Free Art License",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://artlibre.org/licence/lal/en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153035368": {
+        "pageid": 153035368,
+        "ns": 6,
+        "title": "File:Königstuhl, Heidelberg, U-17.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/1920px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 844,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/3840px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/1920px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 844,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/3840px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigstuhl,_Heidelberg,_U-17.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153035368",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-23 14:37:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Königstuhl, Heidelberg, U-17",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Königstuhl (Odenwald)|Heidelberger Altstadt|Heidelberg Castle|Views from Philosophenweg (Heidelberg)|U-17 (submarine, 1973)|Self-published work|Neckar in Heidelberg|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-de-bw|Cultural heritage monuments in Heidelberger Altstadt|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Germany|Files with coordinates missing SDC location of creation (49° N, 8° E)|Images from Wiki Loves Monuments 2024, DE-BW",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "49.415268",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.701144",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Königstuhl, the old town of Heidelberg and the castle, seen from the Philosophenweg. On the banks of the Neckar the submarine U-17 on the way to the Sinsheim Technology Museum",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-07 17:34:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milseburg\" title=\"User:Milseburg\">Jörg Braukmann</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "531685": {
+        "pageid": 531685,
+        "ns": 6,
+        "title": "File:LeonbergMarktplatz.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/06/LeonbergMarktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1200,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/LeonbergMarktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1200
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/LeonbergMarktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:LeonbergMarktplatz.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=531685",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-01-23 22:38:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "LeonbergMarktplatz",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template|Market squares in Landkreis Böblingen|Fountains in Leonberg|Timber framing in Leonberg|Marktplatz in Leonberg|Marktplatz 5 (Leonberg)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75785533": {
+        "pageid": 75785533,
+        "ns": 6,
+        "title": "File:Ludwigsburg Palace December 2018.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/1920px-Ludwigsburg_Palace_December_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 581,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ludwigsburg_Palace_December_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/1920px-Ludwigsburg_Palace_December_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 581,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ludwigsburg_Palace_December_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ludwigsburg_Palace_December_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ludwigsburg_Palace_December_2018.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75785533",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-12 16:41:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ludwigsburg Palace December 2018",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Unassessed QI candidates|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Nov 2017-Aug 2019)|Photographs taken on 2018-12-12|Central Palace Court (Ludwigsburg Palace)|Court facade of Old Hauptbau (Ludwigsburg Palace)|Giant's Building (Ludwigsburg Palace)|Western Noblemen's Building (Ludwigsburg Palace)|Central court fountain (Ludwigsburg Palace)|User Alexander Migl - Miscellaneous",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ludwigsburg Palace in December 2018",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 December 2018 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Alexander-93\" title=\"User:Alexander-93\">Alexander Migl</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122880900": {
+        "pageid": 122880900,
+        "ns": 6,
+        "title": "File:Marktplatz 4, Rathaus Waiblingen 20220702 0129.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg/1920px-Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1065,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg/3840px-Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg/1920px-Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1065,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg/3840px-Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marktplatz_4,_Rathaus_Waiblingen_20220702_0129.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122880900",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-11 06:30:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Marktplatz 4, Rathaus Waiblingen 20220702 0129",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Wiki Loves Monuments 2022 in Germany|Altes Rathaus (Waiblingen)|Uploaded with pattypan|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments missing SDC source of file|Images from Wiki Loves Monuments 2022|Images from Wiki Loves Monuments 2022, DE-BW|Marktplatz 2 (Waiblingen)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Waiblingen: Marktplatz 4, Rathaus",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-07-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tilman2007\" title=\"User:Tilman2007\">Tilman2007</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "43511725": {
+        "pageid": 43511725,
+        "ns": 6,
+        "title": "File:Neues Schloss Schlossplatzspringbrunnen Schlossplatz Stuttgart 2015 01.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg/1920px-Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 807,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg/3840px-Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg/1920px-Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 807,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg/3840px-Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43511725",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-09-22 14:11:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Neues Schloss Schlossplatzspringbrunnen Schlossplatz Stuttgart 2015 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Wiki Loves Monuments 2015 in Germany|GFDL|Taken with Nikon D750|Schlossplatz Stuttgart|License migration not eligible|Schlossplatzspringbrunnen|ISO speed rating 100|Taken with AF-S Nikkor 24-120mm f/4G ED VR|Self-published work|Images from Wiki Loves Monuments 2015|Photos by User:Julian Herzog|F-number f/9|Benches in Stuttgart|2015 in Stuttgart|Lens focal length 30 mm|Exposure time 30 sec|Illuminated buildings in Stuttgart|Photographs taken on 2015-09-21|Photo challenge winners|Neues Schloss, Stuttgart|Images from Wiki Loves Monuments missing SDC creator|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Files with coordinates missing SDC location of creation (48° N, 9° E)|Photos of Stuttgart by Julian Herzog|Photo challenge winners by Julian Herzog|Images from Wiki Loves Monuments 2015, DE-BW|Photos from Wiki Loves Monuments 2015-de by Julian Herzog|Buildings during blue hour in Stuttgart",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.778280",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.179318",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/New_Palace_(Stuttgart)\" class=\"extiw\" title=\"en:New Palace (Stuttgart)\">Neues Schloss</a> (new palace), Schlossplatzspringbrunnen (<a href=\"https://en.wikipedia.org/wiki/Schlossplatz_(Stuttgart)\" class=\"extiw\" title=\"en:Schlossplatz (Stuttgart)\">Schlossplatz</a>, Stuttgart, Germany).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 21 September 2015, 06:27:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Julian_Herzog\" title=\"User:Julian Herzog\">Julian Herzog</a> (<a rel=\"nofollow\" class=\"external text\" href=\"http://julianherzog.com\">Website</a>)<br>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://julianherzog.com/\">Julian Herzog</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27369990": {
+        "pageid": 27369990,
+        "ns": 6,
+        "title": "File:Panorama Nagold, Stadtkirche und Enz (1).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg/1920px-Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 797,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg/3840px-Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg/1920px-Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 797,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg/3840px-Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panorama_Nagold,_Stadtkirche_und_Enz_(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27369990",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-07-21 17:43:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Panorama Nagold, Stadtkirche und Enz (1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Panasonic Lumix DMC-TZ18|CC-Zero|Stadtkirche (Pforzheim)|Images with annotations|Self-published work|Created with Hugin|Panoramics in Pforzheim|Derivative versions|Nagold in Pforzheim|Enz in Pforzheim|Files with coordinates missing SDC location of creation (48° N, 8° E)|Pictures by User:Paralacre",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.888508",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.703436",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Panorama Nagold, Stadtkirche et Enz à Pforzheim (Bade-Würrtemberg) (projection cylindrique)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-07-21 08:56:57",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><span class=\"int-own-work\" lang=\"en\">Own work</span><br>This file was derived from: \n</p>\n<ul><li> <a href=\"//commons.wikimedia.org/wiki/File:Nagold_und_Stadtkirche_(Pforzheim).jpg\" title=\"File:Nagold und Stadtkirche (Pforzheim).jpg\">Nagold und Stadtkirche (Pforzheim).jpg</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:Enz_in_Pforzheim.jpg\" title=\"File:Enz in Pforzheim.jpg\">Enz in Pforzheim.jpg</a><br></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Paralacre\" title=\"User:Paralacre\">Paralacre</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "25921851": {
+        "pageid": 25921851,
+        "ns": 6,
+        "title": "File:Reutlingen Achalm 2012-04.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Reutlingen_Achalm_2012-04.jpg/1920px-Reutlingen_Achalm_2012-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 900,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Reutlingen_Achalm_2012-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Reutlingen_Achalm_2012-04.jpg/1920px-Reutlingen_Achalm_2012-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 900,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Reutlingen_Achalm_2012-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Reutlingen_Achalm_2012-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reutlingen_Achalm_2012-04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25921851",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-05 20:35:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Reutlingen Achalm 2012-04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Achalm|Taken with Sony DSC-H1|Views of Reutlingen|Self-published work|Geography of Reutlingen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Die Achalm (707,1 m ü. NHN) der „Hausberg“ der Stadt Reutlingen, Baden-Württemberg ist ein Zeugenberg des nördlichen Vorlandes der mittleren Schwäbischen Alb in Südwestdeutschland.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-04-01 11:56:25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Helmlechner\" title=\"User:Helmlechner\">Helmlechner</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1066970": {
+        "pageid": 1066970,
+        "ns": 6,
+        "title": "File:Sindelfingen martinskirche.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sindelfingen_martinskirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2133,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sindelfingen_martinskirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2133
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sindelfingen_martinskirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sindelfingen_martinskirche.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1066970",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-08-18 15:28:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sindelfingen martinskirche",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Sony DCR-PC100|CC-BY-SA-2.5,2.0,1.0|Martinskirche (Sindelfingen)|License migration redundant|Self-published work|Church towers in Landkreis Böblingen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Church Martinskirche in Sindelfingen, Germany",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2004-08-09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:JuergenG\" class=\"extiw\" title=\"de:Benutzer:JuergenG\">JuergenG</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4589931": {
+        "pageid": 4589931,
+        "ns": 6,
+        "title": "File:SpeyrerKircheDitzingen.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/SpeyrerKircheDitzingen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2133,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/SpeyrerKircheDitzingen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2133
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/SpeyrerKircheDitzingen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SpeyrerKircheDitzingen.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4589931",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-08-19 21:08:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SpeyrerKircheDitzingen",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-P200|Speyrer Kirche (Ditzingen)|Self-published work|PD-self|Files with coordinates missing SDC location of creation (48° N, 9° E)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.828806",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.063978",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Speyrer Church in Ditzingen, Baden-Württemberg, Germany",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-08-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Harke\" title=\"User:Harke\">Harke</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "72264193": {
+        "pageid": 72264193,
+        "ns": 6,
+        "title": "File:Ulm Panorama 01.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ulm_Panorama_01.jpg/1920px-Ulm_Panorama_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 779,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ulm_Panorama_01.jpg/3840px-Ulm_Panorama_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ulm_Panorama_01.jpg/1920px-Ulm_Panorama_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 779,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ulm_Panorama_01.jpg/3840px-Ulm_Panorama_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ulm_Panorama_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulm_Panorama_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72264193",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-09-02 11:28:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ulm Panorama 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Wiki Loves Monuments 2018 in Germany|Exterior of Ulm Minster|Images with annotations|Metzgerturm (Ulm)|Images from Wiki Loves Monuments 2018|Self-published work|Danube in Neu-Ulm|City walls in Ulm|Uploaded via Campaign:wlm-de-bw|Images from Wiki Loves Monuments missing SDC location of creation|Ulm photographs taken on 2018-08-03|Danube in Ulm in 2018|Files with coordinates missing SDC location of creation (48° N, 9° E)|Skylines in Ulm|Images from Wiki Loves Monuments 2018, DE-BW|All images by Uoaei1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.393725",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.990355",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Historic city center of <a href=\"https://en.wikipedia.org/wiki/Ulm\" class=\"extiw\" title=\"w:Ulm\">Ulm</a>, Baden-Württemberg, Germany",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-08-03 16:25:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Uoaei1\" title=\"User:Uoaei1\">Uoaei1</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

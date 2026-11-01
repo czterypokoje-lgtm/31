@@ -1,0 +1,184 @@
+.hero {
+  position: relative;
+  min-height: 100svh;
+  background-color: var(--color-night-navy);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-bottom: 1px solid var(--color-line);
+}
+
+/* ---- Background ---- */
+.bg {
+  position: absolute;
+  inset: 0;
+  background-color: var(--color-night-navy);
+}
+
+.bgImage {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: brightness(0.4);
+}
+
+.bgOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(12, 20, 34, 0.4) 0%,
+    rgba(12, 20, 34, 0.8) 70%,
+    rgba(12, 20, 34, 1) 100%
+  );
+}
+
+/* ---- Live badge row ---- */
+.badge {
+  position: absolute;
+  top: 2.5rem;
+  left: 5%;
+  z-index: 10;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--font-big-shoulders), sans-serif;
+  font-weight: 900;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-frost);
+}
+
+.liveDot {
+  width: 8px;
+  height: 8px;
+  background: var(--color-signal-orange);
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-shadow: 0 0 10px rgba(255, 106, 43, 0.5);
+}
+
+/* ---- Content ---- */
+.content {
+  position: relative;
+  z-index: 2;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0 5%;
+  padding-top: 6rem;
+  justify-content: flex-end;
+}
+
+/* ---- Bottom grid ---- */
+.bottomGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+@media (min-width: 992px) {
+  .bottomGrid {
+    grid-template-columns: minmax(0, 1.8fr) minmax(0, 1fr);
+    align-items: end;
+    margin-bottom: 3rem;
+  }
+}
+
+/* ---- H1 ---- */
+.heading {
+  font-family: var(--font-big-shoulders), sans-serif;
+  font-weight: 900;
+  font-size: clamp(3rem, 12vw, 9rem);
+  text-transform: uppercase;
+  line-height: 0.85;
+  color: var(--color-frost);
+  margin: 0;
+  overflow-wrap: break-word;
+  letter-spacing: -0.01em;
+}
+
+/* ---- Right desc ---- */
+.descWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 992px) {
+  .descWrapper {
+    align-items: flex-end; /* Places the block on the right side of the grid column */
+  }
+}
+
+.descInner {
+  max-width: 380px;
+  text-align: left; /* Keep text left-aligned inside the block */
+}
+
+.desc {
+  font-family: var(--font-chivo), sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+  color: var(--color-mist);
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+}
+
+.ctaLink {
+  font-family: var(--font-chivo), sans-serif;
+  font-size: 1rem;
+  color: var(--color-frost);
+  text-decoration: none;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(238, 240, 243, 0.4);
+  padding-bottom: 4px;
+  transition: all 0.2s;
+}
+
+.ctaLink:hover {
+  color: var(--color-signal-orange);
+  border-bottom-color: var(--color-signal-orange);
+}
+
+/* ---- Phone number stripe ---- */
+.phoneContainer {
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  overflow: hidden;
+  background: transparent;
+  line-height: 0.85;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 5%;
+  margin-bottom: -1rem; /* Let it sit right on the bottom edge */
+}
+
+@media (min-width: 992px) {
+  .phoneContainer {
+    justify-content: center;
+  }
+}
+
+.phoneNumber {
+  font-family: var(--font-big-shoulders), sans-serif;
+  font-weight: 900;
+  font-size: clamp(6.5rem, 24vw, 24rem);
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  color: var(--color-signal-orange);
+  text-decoration: none;
+  display: block;
+  white-space: nowrap;
+  text-align: left;
+  transition: transform 0.3s ease;
+  line-height: 0.85;
+}
+
+.phoneNumber:hover {
+  transform: scale(1.01);
+}

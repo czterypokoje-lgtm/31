@@ -1,0 +1,786 @@
+{
+  "language": "de",
+  "status": "coverage_confirmed_for_drive_radius_pending_price_confirmation",
+  "source": "Vom Nutzer genannte Geschäftsanschrift und Zielortgruppen; keine Bestätigung der Einsatzabdeckung.",
+  "businessAddress": "Mercedesstraße 12, 71063 Sindelfingen, Deutschland",
+  "phone": "+491721416144",
+  "researchStatus": "See docs/seo-research.md; six competitors per city not yet completed",
+  "technicalTestStatus": "pilot_build_and_static_checks_passed_2026-10-31",
+  "seoPerformanceStatus": "not_measured",
+  "locations": [
+    {
+      "slug": "stuttgart",
+      "city": "Stuttgart",
+      "group": "Stuttgart und Region",
+      "pilot": true,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "title": "Türöffnung Stuttgart anfragen | First Class Key",
+      "h1": "In Stuttgart vor der verschlossenen Wohnungstür?",
+      "enquiryNote": "Für Ihre Anfrage aus Stuttgart nennen Sie bitte die vollständige Einsatzadresse und ob die Haus- oder Wohnungstür betroffen ist. Die angegebene Geschäftsanschrift von First Class Key befindet sich in Sindelfingen; eine Einsatzmöglichkeit für Stuttgart wird für Ihre Anfrage geklärt.",
+      "sections": [
+        {
+          "heading": "Was ist passiert?",
+          "body": "Eine ins Schloss gefallene Tür und eine mit dem Schlüssel verriegelte Tür erfordern unterschiedliche Einschätzungen. Beschreiben Sie bitte den Zustand und ob der Schlüssel noch innen steckt."
+        },
+        {
+          "heading": "Anfahrt und Kosten vor dem Auftrag klären",
+          "body": "Fragen Sie für Ihre Stuttgarter Adresse nach Verfügbarkeit, Anfahrt, Gesamtpreis und möglichen Zuschlägen. Eine feste Ankunftszeit oder ein örtlicher Standort wird mit diesem Entwurf nicht zugesagt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Reicht die Angabe Stuttgart für eine Anfrage?",
+          "answer": "Die vollständige Straße und Hausnummer helfen bei der Einschätzung. Nennen Sie außerdem, welche Tür betroffen ist und wie diese verschlossen wurde."
+        },
+        {
+          "question": "Ist ein Zylinderwechsel nach dem Aussperren immer nötig?",
+          "answer": "Das lässt sich nicht allein aus dem Aussperren ableiten. Türzustand, Defekt und Schlüsselverlust sind zu prüfen; ein Austausch und seine Kosten sollten vorab besprochen werden."
+        }
+      ],
+      "description": "Türöffnung für Stuttgart bei First Class Key anfragen. Türzustand, Einsatzadresse, mögliche Anfahrt und Gesamtkosten konkret besprechen.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "fellbach",
+      "city": "Fellbach",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Bei einer Anfrage aus Fellbach hilft die Angabe, ob nur Ihre Wohnungstür oder bereits der Hauseingang den Zugang versperrt. Die Einsatzmöglichkeit muss für die genaue Adresse bestätigt werden.",
+      "title": "Türöffnung Fellbach anfragen | First Class Key",
+      "h1": "In Fellbach vor der eigenen Wohnung ausgesperrt?",
+      "description": "Türöffnung für Fellbach anfragen: Hauseingang und Wohnungstür unterscheiden, Zugang schildern und Einsatzmöglichkeit sowie Kosten vorab klären.",
+      "sections": [
+        {
+          "heading": "Hauseingang und Wohnungstür getrennt beschreiben",
+          "body": "Ist die Haustür offen, während Ihre Wohnungstür verschlossen bleibt? Oder kommen Sie bereits nicht in das Gebäude? Diese Unterscheidung hilft, den angefragten Leistungsumfang einzugrenzen. Nennen Sie für Fellbach die genaue Einsatzadresse und die betroffene Tür."
+        },
+        {
+          "heading": "Was zur Anfrage gehört",
+          "body": "Beschreiben Sie, ob die Tür nur zugefallen oder abgeschlossen ist. Falls mehrere Türen geöffnet werden müssten, sollte dies vor einer möglichen Anfahrt ausdrücklich besprochen werden. Klären Sie Verfügbarkeit und Gesamtkosten für den konkreten Auftrag."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Muss ich erwähnen, dass auch die Haustür verschlossen ist?",
+          "answer": "Ja. Ein zusätzlicher verschlossener Zugang kann den Auftrag verändern. Besprechen Sie, welche Türen betroffen sind und für welche Sie zugangsberechtigt sind."
+        },
+        {
+          "question": "Ist eine Anfahrt nach Fellbach bereits zugesagt?",
+          "answer": "Nein. Die konkrete Einsatzmöglichkeit wird für Ihre Adresse und den gewünschten Zeitpunkt telefonisch geklärt."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "waiblingen",
+      "city": "Waiblingen",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Beschreiben Sie für Waiblingen, ob die Tür lediglich zugefallen ist oder mit einem Schlüssel abgeschlossen wurde. Klären Sie danach Verfügbarkeit und Gesamtkosten für Ihre Einsatzadresse.",
+      "title": "Türöffnung Waiblingen anfragen | First Class Key",
+      "h1": "Tür in Waiblingen zugefallen oder abgeschlossen?",
+      "description": "Türöffnung in Waiblingen anfragen: Türzustand richtig schildern, möglichen Aufwand besprechen und Anfahrt sowie Gesamtpreis vor einem Auftrag klären.",
+      "sections": [
+        {
+          "heading": "Nur zugezogen oder tatsächlich verriegelt?",
+          "body": "Eine Tür kann ins Schloss fallen, ohne dass der Riegel mit dem Schlüssel ausgefahren wurde. Überlegen Sie vor Ihrer Anfrage aus Waiblingen, ob jemand zuletzt abgeschlossen hat. Wenn Sie es nicht wissen, sagen Sie dies offen, statt einen Zustand zu vermuten."
+        },
+        {
+          "heading": "Die Einschätzung kann sich vor Ort ändern",
+          "body": "Tür, Beschlag und ein möglicher Defekt sind aus der Ferne nicht vollständig zu beurteilen. Lassen Sie sich den vorgesehenen Umfang erklären und klären Sie, wie zusätzlicher Aufwand vereinbart wird. Eine pauschale Zusage für eine beschädigungsfreie Öffnung wäre nicht belastbar."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Was sage ich, wenn ich nicht weiß, ob abgeschlossen wurde?",
+          "answer": "Beschreiben Sie nur Ihre Beobachtung: etwa, dass die Tür ins Schloss gefallen ist oder der Schlüssel zuletzt gedreht wurde. Die weitere Einschätzung erfolgt anhand der konkreten Situation."
+        },
+        {
+          "question": "Bedeutet eine zugefallene Tür immer einen einfachen Auftrag?",
+          "answer": "Nein. Auch Türbauart, Beschlag oder ein Defekt können den Aufwand beeinflussen. Fragen Sie nach Umfang und Kosten für Ihren Fall."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "filderstadt",
+      "city": "Filderstadt",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Für Filderstadt geben Sie bitte an, ob ein Schlüssel innen steckt und ob ein Zweitschlüssel erreichbar ist. Daraus folgt noch keine Öffnungszusage; Tür und Zylinder müssen eingeschätzt werden.",
+      "title": "Türöffnung Filderstadt anfragen | First Class Key",
+      "h1": "Schlüssel steckt innen in Filderstadt?",
+      "description": "Türöffnung für Filderstadt anfragen, wenn der Schlüssel innen steckt. Zylinderfunktion, Zweitschlüssel, Einsatzmöglichkeit und mögliche Kosten klären.",
+      "sections": [
+        {
+          "heading": "Ein innen steckender Schlüssel ist eine wichtige Angabe",
+          "body": "Teilen Sie bei Ihrer Anfrage für Filderstadt mit, ob der Schlüssel auf der Innenseite steckt und ob die Tür abgeschlossen ist. Erwähnen Sie auch, ob Sie einen passenden Zweitschlüssel bei sich haben. Daraus allein lässt sich noch keine geeignete Öffnungsmethode ableiten."
+        },
+        {
+          "heading": "Not- und Gefahrenfunktion ist ausstattungsabhängig",
+          "body": "Bei manchen Zylindern kann ein Schlüssel von außen bedient werden, obwohl innen ein Schlüssel steckt. Diese Eigenschaft hängt von Modell und Ausführung ab. Erzwingen Sie keine Drehung; besprechen Sie auffälligen Widerstand bei der Anfrage."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Lässt sich jede Tür mit innen steckendem Schlüssel von außen aufschließen?",
+          "answer": "Nein. Das hängt unter anderem von der Zylinderfunktion und dem Türzustand ab. Eine vorhandene Not- und Gefahrenfunktion muss zur konkreten Ausführung passen."
+        },
+        {
+          "question": "Welche Angaben helfen bei der Anfrage aus Filderstadt?",
+          "answer": "Nennen Sie die Adresse, ob abgeschlossen wurde, ob ein Zweitschlüssel vorhanden ist und ob dieser sich ohne Gewalt bedienen lässt."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "ditzingen",
+      "city": "Ditzingen",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Nennen Sie bei einer Anfrage aus Ditzingen neben der Adresse auch sichtbare Schäden an Schlüssel oder Beschlag. So kann das Anliegen vor einer möglichen Anfahrt genauer besprochen werden.",
+      "title": "Türöffnung Ditzingen anfragen | First Class Key",
+      "h1": "Schlüssel abgebrochen in Ditzingen?",
+      "description": "Türöffnung in Ditzingen bei abgebrochenem Schlüssel anfragen. Bruchstück, Türzustand und möglichen Austausch besprechen; keine pauschale Öffnungszusage.",
+      "sections": [
+        {
+          "heading": "Wo befindet sich das Bruchstück?",
+          "body": "Bei einer Anfrage aus Ditzingen ist wichtig, ob der Schlüssel im Zylinder abgebrochen ist und ob sich die Tür noch öffnen lässt. Bewahren Sie vorhandene Schlüsselteile auf und beschreiben Sie, was unmittelbar vor dem Bruch passiert ist."
+        },
+        {
+          "heading": "Weitere Schäden vermeiden",
+          "body": "Versuchen Sie nicht, den Rest mit Gewalt zu drehen oder tiefer in den Zylinder zu drücken. Ob eine Entfernung genügt oder ein Ersatz erforderlich ist, hängt vom Schaden ab. Arbeiten am Zylinder und mögliches Material sollten vorab besprochen werden."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Muss ein Zylinder bei einem abgebrochenen Schlüssel immer ersetzt werden?",
+          "answer": "Nicht zwangsläufig. Entscheidend ist, ob das Bruchstück entfernt werden kann und ob der Zylinder beschädigt ist. Eine Bewertung ist für den konkreten Fall nötig."
+        },
+        {
+          "question": "Hilft das andere Schlüsselstück bei der Einschätzung?",
+          "answer": "Es kann helfen, den Bruch zu beschreiben. Eine verbindliche Beurteilung des eingebauten Zylinders ersetzt es nicht."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "sindelfingen",
+      "city": "Sindelfingen",
+      "group": "Umgebung",
+      "pilot": true,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "title": "Türöffnung Sindelfingen anfragen | First Class Key",
+      "h1": "Ausgesperrt in Sindelfingen? Türöffnung anfragen",
+      "enquiryNote": "Die angegebene Geschäftsanschrift von First Class Key lautet Mercedesstraße 12, 71063 Sindelfingen. Nennen Sie bei einer Anfrage die tatsächliche Einsatzadresse; die Geschäftsanschrift allein bestätigt weder Ladenöffnungszeiten noch die aktuelle Verfügbarkeit.",
+      "sections": [
+        {
+          "heading": "Ihre Einsatzadresse ist entscheidend",
+          "body": "Rufen Sie unter +49 172 1416144 an und schildern Sie, welche Tür betroffen ist. Bitte unterscheiden Sie die Adresse der verschlossenen Wohnung von der Geschäftsanschrift in der Mercedesstraße."
+        },
+        {
+          "heading": "Vor einer Türöffnung",
+          "body": "Besprechen Sie Türzustand, mögliche Vorgehensweise und Kosten. Es muss außerdem geklärt werden, dass Sie die Wohnung betreten dürfen. Wenn Ihre Unterlagen eingeschlossen sind, erwähnen Sie dies bereits bei der Anfrage."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kann ich ohne Termin zur Mercedesstraße 12 kommen?",
+          "answer": "Die angegebene Geschäftsanschrift bestätigt keine besetzten Ladenzeiten. Klären Sie einen Besuch oder eine mobile Türöffnung telefonisch."
+        },
+        {
+          "question": "Was sollte ich beim Anruf bereithalten?",
+          "answer": "Die genaue Einsatzadresse, eine Beschreibung des Türzustands und Angaben zu Ihrer Zugangsberechtigung helfen bei der Klärung. Fragen Sie nach dem Gesamtpreis und möglichen Zusatzkosten."
+        }
+      ],
+      "description": "Ausgesperrt in Sindelfingen? First Class Key unter +49 172 1416144 kontaktieren. Einsatzadresse, Türzustand und mögliche Kosten vorab klären.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "boeblingen",
+      "city": "Böblingen",
+      "group": "Umgebung",
+      "pilot": true,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "title": "Türöffnung Böblingen anfragen | First Class Key",
+      "h1": "Tür zu in Böblingen? Klären Sie Ihre Türöffnung",
+      "enquiryNote": "Für Böblingen wird eine mögliche Türöffnung anhand Ihrer genauen Adresse angefragt. Die bekannte Geschäftsanschrift befindet sich in Sindelfingen; aus der Zielortnennung folgt keine Niederlassung in Böblingen.",
+      "sections": [
+        {
+          "heading": "Schlüssel vergessen oder verloren?",
+          "body": "Teilen Sie mit, ob der Schlüssel in der Wohnung liegt oder nicht mehr auffindbar ist. Bei Schlüsselverlust können nach der Öffnung weitere Fragen zur Sicherung der Wohnung entstehen; ein Austausch ist gesondert zu besprechen."
+        },
+        {
+          "heading": "Einsatz erst konkret vereinbaren",
+          "body": "Für Ihre Böblinger Adresse sind Verfügbarkeit, Anfahrt und Kosten vor der Beauftragung zu klären. Auch bei einer nur zugefallenen Tür lässt sich eine beschädigungsfreie Öffnung nicht pauschal versprechen."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Gibt es einen bestätigten Standort in Böblingen?",
+          "answer": "Für diesen Entwurf ist ausschließlich die Geschäftsanschrift Mercedesstraße 12 in Sindelfingen angegeben. Eine Böblinger Niederlassung ist damit nicht belegt."
+        },
+        {
+          "question": "Kann ich vorab einen Preis für Böblingen erfahren?",
+          "answer": "Schildern Sie den Türzustand und die Einsatzadresse und fragen Sie nach dem Gesamtpreis einschließlich Anfahrt, Zuschlägen und möglichem Material. In diesem Entwurf sind keine verbindlichen Tarife bestätigt."
+        }
+      ],
+      "description": "Türöffnung für Böblingen anfragen: Schlüssel vergessen oder verloren, Türzustand schildern und Verfügbarkeit sowie mögliche Gesamtkosten klären.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "ludwigsburg",
+      "city": "Ludwigsburg",
+      "group": "Umgebung",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Für Ludwigsburg sollte bereits bei der Anfrage klar sein, ob ein Schlüssel verloren wurde oder nur in der Wohnung liegt. Besprechen Sie die mögliche Anfahrt und weitere Arbeiten getrennt.",
+      "title": "Türöffnung Ludwigsburg anfragen | First Class Key",
+      "h1": "Wohnungsschlüssel in Ludwigsburg verloren?",
+      "description": "Türöffnung für Ludwigsburg bei Schlüsselverlust anfragen. Öffnung und mögliche Sicherung der Wohnung getrennt besprechen; Anfahrt und Kosten klären.",
+      "sections": [
+        {
+          "heading": "Verloren ist etwas anderes als eingeschlossen",
+          "body": "Wenn der Schlüssel nicht mehr auffindbar ist, erwähnen Sie dies bei Ihrer Anfrage aus Ludwigsburg. Beschreiben Sie auch, ob die Tür zuletzt abgeschlossen wurde. Ein Schlüssel, der in der Wohnung liegt, führt zu anderen Überlegungen als ein verlorener Schlüssel."
+        },
+        {
+          "heading": "Öffnung und anschließende Sicherung unterscheiden",
+          "body": "Nach dem Zugang zur Wohnung stellt sich bei Schlüsselverlust möglicherweise die Frage nach einem Zylinderwechsel. Besprechen Sie Bedarf, Kompatibilität und Kosten gesondert. Der Auftrag zur Öffnung allein sollte nicht als pauschale Zustimmung zu zusätzlichem Material verstanden werden."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ist nach jedem Schlüsselverlust ein Austausch nötig?",
+          "answer": "Das lässt sich nicht pauschal sagen. Die mögliche Zuordnung des Schlüssels und die konkrete Wohnsituation sollten bei der Entscheidung berücksichtigt werden."
+        },
+        {
+          "question": "Soll ich einen vorhandenen Ersatzschlüssel erwähnen?",
+          "answer": "Ja. Ein erreichbarer Ersatzschlüssel kann für die weitere Klärung wichtig sein. Ob er die aktuelle Tür öffnet, hängt auch von Türzustand und Zylinder ab."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "esslingen-am-neckar",
+      "city": "Esslingen am Neckar",
+      "group": "Umgebung",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Bei einer Anfrage aus Esslingen am Neckar geben Sie an, ob Sie Zugang zum Gebäude haben. Ein verschlossener Hauseingang und eine verschlossene Wohnungstür können zwei verschiedene Anliegen sein.",
+      "title": "Türöffnung Esslingen am Neckar anfragen | First Class Key",
+      "h1": "Ausgesperrt in Esslingen am Neckar – Unterlagen liegen drinnen?",
+      "description": "Türöffnung für Esslingen am Neckar anfragen. Eingeschlossene Ausweispapiere, Zugangsberechtigung, Türzustand und konkreten Einsatz vorab besprechen.",
+      "sections": [
+        {
+          "heading": "Zugangsberechtigung früh ansprechen",
+          "body": "Wenn Ihr Ausweis in der verschlossenen Wohnung liegt, sagen Sie dies bereits bei der Anfrage aus Esslingen am Neckar. Vor einer Öffnung muss geklärt werden, dass Sie die Räume betreten dürfen. Welche Nachweise möglich sind, ist konkret abzustimmen."
+        },
+        {
+          "heading": "Zugang zum Gebäude beschreiben",
+          "body": "Geben Sie an, ob Sie im Treppenhaus stehen oder auch der Hauseingang verschlossen ist. Nennen Sie die genaue Adresse und die betroffene Wohnung. Verfügbarkeit und Kosten werden für diesen konkreten Umfang angefragt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kann die Tür ohne jede Klärung der Berechtigung geöffnet werden?",
+          "answer": "Eine Öffnung erfordert die Klärung Ihrer Zugangsberechtigung. Besprechen Sie vorab, welche Nachweise Sie beibringen können."
+        },
+        {
+          "question": "Was mache ich, wenn alle Unterlagen in der Wohnung sind?",
+          "answer": "Erwähnen Sie dies beim ersten Kontakt. Eine geeignete Möglichkeit der Prüfung muss für Ihre Situation abgestimmt werden; eine pauschale Zusage ist nicht möglich."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "leonberg",
+      "city": "Leonberg",
+      "group": "Umgebung",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Für Leonberg hilft eine genaue Fehlerbeschreibung: Dreht sich der Schlüssel nicht, ist er abgebrochen oder fehlt er? Die Einsatzübernahme wird vorab für Ihre Adresse geklärt.",
+      "title": "Türöffnung Leonberg anfragen | First Class Key",
+      "h1": "Schlüssel dreht sich in Leonberg nicht mehr?",
+      "description": "Türöffnung für Leonberg bei klemmendem Schloss anfragen. Fehlerbild und Türzustand schildern; Prüfung, möglichen Ersatz und Gesamtkosten klären.",
+      "sections": [
+        {
+          "heading": "Das Fehlerbild möglichst genau beschreiben",
+          "body": "Für eine Anfrage aus Leonberg helfen konkrete Beobachtungen: Lässt sich der Schlüssel einführen, aber nicht drehen? Dreht er sich, ohne dass die Tür aufgeht? Oder sitzt er fest? Schildern Sie nur, was Sie bemerken; die Ursache kann sich erst bei einer Prüfung zeigen."
+        },
+        {
+          "heading": "Prüfung vor einem Austausch",
+          "body": "Ein schwergängiger Schlüssel beweist noch nicht, welches Bauteil defekt ist. Zusätzliche Kraft kann Schäden verursachen. Klären Sie zunächst die Einsatzmöglichkeit und anschließend Prüfung, Vorgehen sowie mögliche Materialkosten."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Soll ich den Schlüssel kräftiger drehen?",
+          "answer": "Üben Sie keine zusätzliche Gewalt aus, wenn ungewöhnlicher Widerstand auftritt. Ein abgebrochener Schlüssel kann die Situation erschweren."
+        },
+        {
+          "question": "Ist automatisch der Schließzylinder defekt?",
+          "answer": "Nein. Auch andere Teile der Tür oder Verriegelung können beteiligt sein. Ohne Prüfung lässt sich die Ursache nicht zuverlässig bestimmen."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "slug": "mannheim",
+      "city": "Mannheim",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Mannheim gehört zur gewünschten weiteren Zielortgruppe. Fragen Sie ausdrücklich, ob Ihre Adresse bedient werden kann und welche Anfahrtskosten anfallen; die Zielortliste ist keine Einsatzbestätigung.",
+      "title": "Türöffnung Mannheim anfragen | First Class Key",
+      "h1": "Türöffnung für Mannheim: Einsatz zuerst klären",
+      "description": "Für Mannheim zunächst Einsatzübernahme und Anfahrt bei First Class Key anfragen. Türzustand, gewünschten Zeitpunkt und Gesamtkosten konkret besprechen.",
+      "sections": [
+        {
+          "heading": "Eine Zielortnennung ist keine Einsatzbestätigung",
+          "body": "Mannheim gehört zu den angefragten Zielorten. Die bekannte Geschäftsanschrift von First Class Key liegt in Sindelfingen. Klären Sie zuerst ausdrücklich, ob Ihr konkreter Auftrag in Mannheim übernommen werden kann; ein örtliches Team ist durch diese Seite nicht belegt."
+        },
+        {
+          "heading": "Erst Umfang, dann Auftrag",
+          "body": "Nennen Sie die vollständige Adresse, den gewünschten Zeitpunkt und ob die Tür nur zugefallen oder abgeschlossen ist. Lassen Sie mögliche Anfahrtskosten und den Leistungsumfang in die Preisabsprache aufnehmen. Eine feste Ankunftszeit wird hier nicht zugesagt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ist für Mannheim eine lokale Niederlassung bestätigt?",
+          "answer": "Nein. Als Geschäftsanschrift ist Mercedesstraße 12 in Sindelfingen angegeben. Die Übernahme einer Anfrage aus Mannheim ist gesondert zu klären."
+        },
+        {
+          "question": "Welche Kosten sollte ich ausdrücklich erfragen?",
+          "answer": "Fragen Sie nach dem Gesamtpreis, der Anfahrt, möglichen zeitabhängigen Zuschlägen und erforderlichem Material für Ihren konkreten Fall."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    },
+    {
+      "slug": "karlsruhe",
+      "city": "Karlsruhe",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Für Karlsruhe sind Einsatzübernahme und Anfahrt gesondert zu klären. Nennen Sie den Türzustand und fragen Sie nach dem vollständigen Leistungsumfang, bevor Sie einen Auftrag erteilen.",
+      "title": "Türöffnung Karlsruhe anfragen | First Class Key",
+      "h1": "Türöffnung in Karlsruhe: Leistungsumfang klar vereinbaren",
+      "description": "Türöffnung für Karlsruhe anfragen und Öffnung, Anfahrt sowie Zusatzarbeiten klar abgrenzen. Einsatzmöglichkeit und Preise werden konkret geklärt.",
+      "sections": [
+        {
+          "heading": "Was soll tatsächlich beauftragt werden?",
+          "body": "Wenn Sie in Karlsruhe ausgesperrt sind, beschreiben Sie zunächst das Ziel: Zugang zu Ihrer Wohnung. Ein Zylinderwechsel oder andere Arbeiten sind eigene Punkte, die gegebenenfalls nach der Prüfung besprochen werden. Die bloße Anfrage ist keine Zustimmung zu einem Ersatzteil."
+        },
+        {
+          "heading": "Gesamtpreis und Änderungen besprechen",
+          "body": "Klären Sie, ob die Adresse bedient werden kann und welche Leistungen die Preisabsprache enthält. Falls vor Ort ein anderer Aufwand sichtbar wird, sollte dieser erklärt und vereinbart werden, bevor zusätzliche Arbeiten beginnen."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Gehört ein neuer Zylinder automatisch zur Türöffnung?",
+          "answer": "Das hängt vom vereinbarten Umfang und der Situation ab. Fragen Sie ausdrücklich nach, ob Material enthalten ist und wann ein Austausch notwendig wäre."
+        },
+        {
+          "question": "Ist ein pauschaler Preis für alle Türen sinnvoll?",
+          "answer": "Türzustand, Anfahrt, Zeitpunkt und Material können unterschiedlich sein. Entscheidend ist eine klare Absprache für Ihren konkreten Auftrag."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    },
+    {
+      "slug": "freiburg-im-breisgau",
+      "city": "Freiburg im Breisgau",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Für Freiburg im Breisgau besteht in diesen Angaben keine bestätigte Einsatzabdeckung. Klären Sie zunächst die Möglichkeit einer Hilfe und erst danach einen konkreten Termin und Preis.",
+      "title": "Türöffnung Freiburg im Breisgau anfragen | First Class Key",
+      "h1": "Türöffnung für Freiburg im Breisgau anfragen",
+      "description": "Einsatzmöglichkeit für Freiburg im Breisgau prüfen lassen. Türzustand, Bedarf und Zeitpunkt schildern; keine bestätigte örtliche Abdeckung oder Minutenzusage.",
+      "sections": [
+        {
+          "heading": "Verfügbarkeit vor einer weiteren Planung prüfen",
+          "body": "Für Freiburg im Breisgau ist in den vorliegenden Betriebsangaben keine Einsatzabdeckung bestätigt. Fragen Sie zuerst, ob Hilfe an Ihrer Adresse möglich ist. Eine Zusage lässt sich weder aus dem Seitentitel noch aus der Geschäftsanschrift in Sindelfingen ableiten."
+        },
+        {
+          "heading": "Die aktuelle Situation erklären",
+          "body": "Sagen Sie, ob es um einen aktuellen Ausschluss aus der Wohnung oder um einen planbaren Termin bei einem Türproblem geht. So lässt sich die Anfrage richtig einordnen. Vereinbaren Sie eine mögliche Anfahrt und deren Kosten erst nach der Klärung der Verfügbarkeit."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Gibt es eine bestätigte Soforthilfe für Freiburg?",
+          "answer": "Nein. Verfügbarkeit und ein möglicher Zeitpunkt müssen für Ihre Anfrage ausdrücklich geklärt werden."
+        },
+        {
+          "question": "Kann ich auch einen planbaren Termin anfragen?",
+          "answer": "Sie können den gewünschten Zeitraum nennen. Ob der Auftrag übernommen werden kann, muss der Betrieb konkret bestätigen."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    },
+    {
+      "slug": "heidelberg",
+      "city": "Heidelberg",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Eine Anfrage aus Heidelberg sollte Ihre genaue Adresse und den gewünschten Zeitpunkt enthalten. Weder örtliche Präsenz noch eine bestimmte Ankunftszeit sind durch die Zielortnennung belegt.",
+      "title": "Türöffnung Heidelberg anfragen | First Class Key",
+      "h1": "Ausgesperrt in Heidelberg? Türzustand und Termin klären",
+      "description": "Türöffnung für Heidelberg anfragen: Zustand der Wohnungstür, Einsatzadresse und Zeitpunkt nennen. Abdeckung und Anfahrt müssen konkret bestätigt werden.",
+      "sections": [
+        {
+          "heading": "Möglichst konkrete Angaben statt einer allgemeinen Preisfrage",
+          "body": "Eine Anfrage aus Heidelberg lässt sich besser einordnen, wenn Sie Adresse, Türzustand und gewünschten Zeitpunkt nennen. Auch ein innen steckender Schlüssel oder ein sichtbarer Defekt gehört zur Beschreibung. Ein allgemeiner Startpreis sagt noch nichts über Ihren vollständigen Auftrag aus."
+        },
+        {
+          "heading": "Zeitpunkt ohne pauschale Verfügbarkeitszusage",
+          "body": "Nennen Sie, wann Sie Hilfe benötigen, und lassen Sie die mögliche Übernahme bestätigen. Für Heidelberg sind weder feste Betriebszeiten noch eine örtliche Bereitschaft aus den vorhandenen Angaben ableitbar. Besprechen Sie Anfahrt und mögliche Zuschläge für den vereinbarten Zeitpunkt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Sind Abend- oder Wochenendtermine sicher verfügbar?",
+          "answer": "Eine solche Verfügbarkeit ist hier nicht bestätigt. Fragen Sie nach dem konkreten Zeitpunkt und möglichen Zuschlägen."
+        },
+        {
+          "question": "Reicht ein Foto für einen verbindlichen Preis?",
+          "answer": "Ein Foto kann eine Beschreibung ergänzen, zeigt aber nicht alle Teile und Zustände. Welche Angaben für eine belastbare Absprache nötig sind, muss konkret geklärt werden."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    },
+    {
+      "slug": "heilbronn",
+      "city": "Heilbronn",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Für Heilbronn fragen Sie bitte vorab nach der konkreten Einsatzmöglichkeit. Teilen Sie mit, ob die Tür abgeschlossen ist oder sich wegen eines Defekts nicht öffnen lässt.",
+      "title": "Türöffnung Heilbronn anfragen | First Class Key",
+      "h1": "Tür lässt sich in Heilbronn trotz Schlüssel nicht öffnen?",
+      "description": "Türöffnung für Heilbronn bei blockierter Verriegelung anfragen. Beobachtungen schildern, Einsatzübernahme prüfen und möglichen Aufwand vorab besprechen.",
+      "sections": [
+        {
+          "heading": "Wenn der Schlüssel vorhanden ist und die Tür geschlossen bleibt",
+          "body": "Für eine Anfrage aus Heilbronn ist wichtig, ob der Schlüssel sich dreht und ob sich der Türgriff bewegen lässt. Beschreiben Sie auffällige Geräusche oder Widerstand, ohne Teile gewaltsam zu betätigen. Aus diesen Angaben allein folgt noch keine sichere Diagnose."
+        },
+        {
+          "heading": "Verriegelung und Zylinder sind unterschiedliche Bauteile",
+          "body": "Nicht jedes Problem entsteht im Schließzylinder. Auch Schloss oder Verriegelung können beteiligt sein. Klären Sie zuerst die Einsatzmöglichkeit für Ihre Adresse und lassen Sie einen nötigen Eingriff oder Austausch samt Kosten erklären."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Löst ein neuer Schließzylinder jedes Türproblem?",
+          "answer": "Nein. Wenn andere Bauteile blockieren oder defekt sind, kann ein Zylinderwechsel das Problem verfehlen. Die Ursache muss geprüft werden."
+        },
+        {
+          "question": "Kann eine defekte Verriegelung den Aufwand verändern?",
+          "answer": "Ja. Der tatsächliche Zustand beeinflusst Vorgehen und mögliche Ersatzteile. Zusätzlicher Aufwand sollte vor der Ausführung besprochen werden."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    },
+    {
+      "slug": "ulm",
+      "city": "Ulm",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Für Ulm müssen Verfügbarkeit und Anfahrtsbedingungen ausdrücklich vereinbart werden. Eine allgemeine Zielortseite ersetzt keine Bestätigung für Ihre Wohnung und den gewünschten Zeitpunkt.",
+      "title": "Türöffnung Ulm anfragen | First Class Key",
+      "h1": "Türöffnung für Ulm: Anfahrt und Auftrag abstimmen",
+      "description": "Für Ulm Einsatzmöglichkeit, Anfahrtsbedingungen und Gesamtpreis konkret anfragen. Keine pauschale Ankunftszeit oder bestätigte örtliche Niederlassung.",
+      "sections": [
+        {
+          "heading": "Die Anfahrt gehört zur Preisabsprache",
+          "body": "Für einen möglichen Einsatz in Ulm sollten Sie neben der Türöffnung auch die Anfahrt ausdrücklich ansprechen. Nennen Sie die vollständige Adresse und fragen Sie, welche Kosten im vereinbarten Gesamtpreis enthalten sind. Ein örtlicher Standort ist hier nicht bestätigt."
+        },
+        {
+          "heading": "Änderungen Ihrer Situation früh mitteilen",
+          "body": "Wenn inzwischen ein Ersatzschlüssel auftaucht oder sich Ihr Bedarf ändert, teilen Sie dies dem Betrieb mit. Besprechen Sie vor dem Auftrag auch, wie eine Terminänderung oder Absage behandelt wird. Dieser Text verspricht keine bestimmten Storno- oder Anfahrtsbedingungen."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ist die Anfahrt nach Ulm kostenlos?",
+          "answer": "Dazu liegt keine bestätigte Angabe vor. Klären Sie die Anfahrt und alle weiteren Preisbestandteile vor einer Beauftragung."
+        },
+        {
+          "question": "Was gilt, wenn ich die Tür zwischenzeitlich selbst aufschließen kann?",
+          "answer": "Informieren Sie den Betrieb sofort und klären Sie die weitere Abwicklung anhand der konkret vereinbarten Bedingungen."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    },
+    {
+      "slug": "pforzheim",
+      "city": "Pforzheim",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Nennen Sie für Pforzheim, ob Haus- oder Wohnungsschlüssel betroffen sind und ob ein Zweitschlüssel vorhanden ist. Lassen Sie sich die Möglichkeit einer Anfahrt für Ihre Adresse bestätigen.",
+      "title": "Türöffnung Pforzheim anfragen | First Class Key",
+      "h1": "Türöffnung in Pforzheim und passende Zylinderfragen",
+      "description": "Türöffnung für Pforzheim anfragen. Türzustand und vorhandenes Schließsystem schildern; Modellbeispiele ersetzen keine Prüfung von Passform oder Verfügbarkeit.",
+      "sections": [
+        {
+          "heading": "Das vorhandene Schließsystem beschreiben",
+          "body": "Bei einer Anfrage aus Pforzheim kann eine bekannte Modellbezeichnung die Beschreibung ergänzen. ABUS D6X, DOM ix TwinStar und EVVA 4KS sind Beispiele realer Systeme. Ihre Nennung ist keine Zusage, dass ein bestimmtes Modell vorrätig ist, eingebaut wird oder in jeder Situation geöffnet werden kann."
+        },
+        {
+          "heading": "Passform und Ausstattung konkret prüfen",
+          "body": "Wird ein Austausch erwogen, müssen unter anderem Zylindermaß, Ausführung und Kompatibilität zur Tür passen. Besprechen Sie die Anforderungen und mögliche Kosten vor einer Bestellung oder Montage. Die Einsatzübernahme für Pforzheim ist gesondert zu bestätigen."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kann ich einfach ein beliebiges Zylindermodell auswählen?",
+          "answer": "Ein Modellname allein genügt nicht. Maße, Funktionen und die vorhandene Tür müssen berücksichtigt werden."
+        },
+        {
+          "question": "Sind die genannten Modelle bei First Class Key auf Lager?",
+          "answer": "Ein Lagerbestand oder eine Lieferzusage ist hier nicht bestätigt. Fragen Sie nach dem konkreten Modell und der passenden Ausführung."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    },
+    {
+      "slug": "reutlingen",
+      "city": "Reutlingen",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Für Reutlingen klären Sie zunächst die Einsatzübernahme und dann die Kosten für Türöffnung, Anfahrt und mögliches Material. Zusätzliche Arbeiten sollten gesondert vereinbart werden.",
+      "title": "Türöffnung Reutlingen anfragen | First Class Key",
+      "h1": "Türöffnung für Reutlingen mit klarer Absprache",
+      "description": "Türöffnung für Reutlingen anfragen: Öffnung und mögliche Zusatzarbeiten unterscheiden, Einsatzübernahme prüfen und Kosten verständlich vereinbaren.",
+      "sections": [
+        {
+          "heading": "Vom Zugang zur geprüften Türfunktion",
+          "body": "Nennen Sie bei Ihrer Anfrage aus Reutlingen, ob die Tür nur zugefallen ist oder bereits zuvor Probleme beim Schließen gemacht hat. Eine Öffnung und die Beseitigung eines weiteren Defekts sind nicht zwangsläufig derselbe Leistungsumfang. Besprechen Sie, was genau geprüft und ausgeführt werden soll."
+        },
+        {
+          "heading": "Leistungen und Material nachvollziehbar festhalten",
+          "body": "Fragen Sie vor einem möglichen Auftrag nach Öffnungskosten, Anfahrt und Material. Wenn zusätzliche Arbeiten erforderlich erscheinen, lassen Sie sich Zweck und Preis erklären. Vereinbaren Sie, wie die ausgeführten Leistungen dokumentiert werden; konkrete Zahlungsarten sind hier nicht bestätigt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Soll die Tür nach der Öffnung noch geprüft werden?",
+          "answer": "Eine gemeinsame Prüfung von Öffnen und Schließen hilft, verbleibende Probleme zu erkennen. Welche weiteren Arbeiten nötig sind, muss gesondert besprochen werden."
+        },
+        {
+          "question": "Welche Zahlungsarten werden in Reutlingen angeboten?",
+          "answer": "Dazu gibt es in diesen Angaben keine Bestätigung. Klären Sie die Zahlungsart zusammen mit Einsatzmöglichkeit und Kosten vor dem Auftrag."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ]
+    }
+  ],
+  "technicalTestEvidence": [
+    "Parent agent reported successful build with 38 static pages.",
+    "Parent agent reported check-site: 33 content pages, 1472 internal references, 18 locations.",
+    "Parent agent reported 14 CSS, font and design files unchanged.",
+    "Expanded editorial drafts still require integration and a fresh build."
+  ],
+  "researchGaps": [
+    "Localized Google top-six ranks have not been measured.",
+    "Six distinct competitor domains have not been inspected for every city.",
+    "Business coverage, working hours and prices still require confirmation."
+  ],
+  "coverageConfirmedOn": "2026-11-01"
+}

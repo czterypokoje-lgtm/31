@@ -1,0 +1,485 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "78405392": {
+        "pageid": 78405392,
+        "ns": 6,
+        "title": "File:De-Schließzylinder.ogg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+            "thumbwidth": 1600,
+            "thumbheight": 1600,
+            "thumbattribs": [],
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-Schlie%C3%9Fzylinder.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De-Schlie%C3%9Fzylinder.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78405392",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-04-28 05:22:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De-Schließzylinder",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Uploaded with VicuñaUploader|German pronunciation of nouns|Supported by Wikimedia Deutschland|Created with Audacity|Audio files made by jeuwre|Audio files made using a Rode NT-USB (supported by Wikimedia Deutschland)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Pronunciation recording of German noun \"Schließzylinder\", IPA: /ˈʃliːst͡syˌlɪndɐ/. Male voice, recorded by native German speaker from Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-04-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, recorded with Rode NT-USB, converted with <a href=\"https://en.wikipedia.org/wiki/Audacity_(audio_editor)\" class=\"extiw\" title=\"w:Audacity (audio editor)\">Audacity</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeuwre\" title=\"User:Jeuwre\">Jeuwre</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "78405396": {
+        "pageid": 78405396,
+        "ns": 6,
+        "title": "File:De-Schließzylinders.ogg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+            "thumbwidth": 1600,
+            "thumbheight": 1600,
+            "thumbattribs": [],
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Schlie%C3%9Fzylinders.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De-Schlie%C3%9Fzylinders.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78405396",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-04-28 05:22:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De-Schließzylinders",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Uploaded with VicuñaUploader|Supported by Wikimedia Deutschland|Created with Audacity|Audio files made by jeuwre|Audio files made using a Rode NT-USB (supported by Wikimedia Deutschland)|German pronunciation of noun flections",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Pronunciation recording of German noun inflection \"Schließzylinders\", IPA: /ˈʃliːst͡syˌlɪndɐs/. Male voice, recorded by native German speaker from Berlin, Germany.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-04-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, recorded with Rode NT-USB, converted with <a href=\"https://en.wikipedia.org/wiki/Audacity_(audio_editor)\" class=\"extiw\" title=\"w:Audacity (audio editor)\">Audacity</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeuwre\" title=\"User:Jeuwre\">Jeuwre</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "106560216": {
+        "pageid": 106560216,
+        "ns": 6,
+        "title": "File:Janus-Schließzylinder.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Janus-Schlie%C3%9Fzylinder.jpg/1920px-Janus-Schlie%C3%9Fzylinder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1080,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Janus-Schlie%C3%9Fzylinder.jpg/3840px-Janus-Schlie%C3%9Fzylinder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Janus-Schlie%C3%9Fzylinder.jpg/1920px-Janus-Schlie%C3%9Fzylinder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1080,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Janus-Schlie%C3%9Fzylinder.jpg/3840px-Janus-Schlie%C3%9Fzylinder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Janus-Schlie%C3%9Fzylinder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Janus-Schlie%C3%9Fzylinder.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106560216",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-06-14 05:10:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Janus-Schließzylinder",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Keys in Germany|Door furniture|Euro cylinder locks|Self-published work|BKS keys",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Schlüssel und Schließzylinder",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-06-25 14:42:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gretsch-Unitas_Content-Marketing&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gretsch-Unitas Content-Marketing (page does not exist)\">Gretsch-Unitas Content-Marketing</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "54980351": {
+        "pageid": 54980351,
+        "ns": 6,
+        "title": "File:Schliesszylinder Funktion und Bauweise.png",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Schliesszylinder_Funktion_und_Bauweise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 618,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Schliesszylinder_Funktion_und_Bauweise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 618
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Schliesszylinder_Funktion_und_Bauweise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Schliesszylinder_Funktion_und_Bauweise.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54980351",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-12 16:52:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Schliesszylinder Funktion und Bauweise",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Technical drawings of locks",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Schließzylinder-Aufbau und Innenansicht.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-01-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.lokaler-schluesselnotdienst.de/schliesszylinder_funktion_und_bauweise/\">https://www.lokaler-schluesselnotdienst.de/schliesszylinder_funktion_und_bauweise/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Friederike Blömer for CanJeda GmbH",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "69764533": {
+        "pageid": 69764533,
+        "ns": 6,
+        "title": "File:Schließzylinder DSC03717.JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Schlie%C3%9Fzylinder_DSC03717.JPG/1920px-Schlie%C3%9Fzylinder_DSC03717.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1084,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Schlie%C3%9Fzylinder_DSC03717.JPG/3840px-Schlie%C3%9Fzylinder_DSC03717.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Schlie%C3%9Fzylinder_DSC03717.JPG/1920px-Schlie%C3%9Fzylinder_DSC03717.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1084,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Schlie%C3%9Fzylinder_DSC03717.JPG/3840px-Schlie%C3%9Fzylinder_DSC03717.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Schlie%C3%9Fzylinder_DSC03717.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Schlie%C3%9Fzylinder_DSC03717.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69764533",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-10-01 13:09:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Schließzylinder DSC03717",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Copyrighted free use|Pin tumbler locks",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Schließzylinder mit Halteschraube",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><br><span lang=\"en\" dir=\"ltr\"><b>Original text</b></span>: <i>Eigenes Foto</i>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "--<a href=\"https://de.wikipedia.org/wiki/Benutzer:Nightflyer\" class=\"extiw\" title=\"de:Benutzer:Nightflyer\">Nightflyer</a> (<a href=\"https://de.wikipedia.org/wiki/Benutzer_Diskussion:Nightflyer\" class=\"extiw\" title=\"de:Benutzer Diskussion:Nightflyer\">Diskussion</a>) 20:23, 6. Jun. 2018 (CEST)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Copyrighted free use",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Copyrighted free use",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

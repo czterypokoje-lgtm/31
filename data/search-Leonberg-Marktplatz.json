@@ -1,0 +1,554 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "70885120": {
+        "pageid": 70885120,
+        "ns": 6,
+        "title": "File:Leonberg, Marktplatz.JPG",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonberg%2C_Marktplatz.JPG/1920px-Leonberg%2C_Marktplatz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1071,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonberg%2C_Marktplatz.JPG/3840px-Leonberg%2C_Marktplatz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonberg%2C_Marktplatz.JPG/1920px-Leonberg%2C_Marktplatz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1071,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonberg%2C_Marktplatz.JPG/3840px-Leonberg%2C_Marktplatz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Leonberg%2C_Marktplatz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonberg,_Marktplatz.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70885120",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-15 20:32:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Leonberg, Marktplatz",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Market squares in Landkreis Böblingen|Fountains in Leonberg|Timber framing in Leonberg|Marktplatz in Leonberg|Marktplatz 5 (Leonberg)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Leonberg, Marktplatz mit Marktbrunnen",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-06-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:amras_wi\" class=\"extiw\" title=\"de:Benutzer:amras wi\">amras.wi</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "eigenes Photo",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "45059058": {
+        "pageid": 45059058,
+        "ns": 6,
+        "title": "File:Leonberg Fachwerkhäuser am Marktplatz.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg/1920px-Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1047,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg/3840px-Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg/1920px-Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1047,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg/3840px-Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonberg_Fachwerkh%C3%A4user_am_Marktplatz.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45059058",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-11-17 15:33:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Leonberg Fachwerkhäuser am Marktplatz",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|Market squares in Landkreis Böblingen|Fountains in Leonberg|Files with coordinates missing SDC location of creation (48° N, 9° E)|Timber framing in Leonberg|Rathaus Leonberg|Marktplatz in Leonberg",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.800908",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.015458",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Market place in <a href=\"https://en.wikipedia.org/wiki/Leonberg\" class=\"extiw\" title=\"en:Leonberg\">Leonberg</a> with the city hall, market well and the timber framing, German Federal State <a href=\"https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg\" class=\"extiw\" title=\"en:Baden-Württemberg\">Baden-Württemberg</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-07-24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Harke\" title=\"User:Harke\">Harke</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10567031": {
+        "pageid": 10567031,
+        "ns": 6,
+        "title": "File:Leonberg Marktplatz.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Leonberg_Marktplatz.jpg/1920px-Leonberg_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/18/Leonberg_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Leonberg_Marktplatz.jpg/1920px-Leonberg_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/18/Leonberg_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Leonberg_Marktplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonberg_Marktplatz.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10567031",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-06-06 17:30:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Leonberg Marktplatz",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 350D|Self-published work|Market squares in Landkreis Böblingen|Fountains in Leonberg|Timber framing in Leonberg|Rathaus Leonberg|Marktplatz in Leonberg",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Place du marché de Leonberg",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-04-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Denys\" title=\"User:Denys\">Denys</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "198630789": {
+        "pageid": 198630789,
+        "ns": 6,
+        "title": "File:Leonberg Marktplatz 1.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Leonberg_Marktplatz_1.jpg/1920px-Leonberg_Marktplatz_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2400,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Leonberg_Marktplatz_1.jpg/1920px-Leonberg_Marktplatz_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2400
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Leonberg_Marktplatz_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonberg_Marktplatz_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198630789",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-01 14:26:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Leonberg Marktplatz 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cultural heritage monuments in Leonberg|Self-published work|Uploaded via Campaign:wlm-de-bw|Images from Wiki Loves Monuments missing SDC participant in|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2026 in Germany|2026 in Landkreis Böblingen|Images from Wiki Loves Monuments 2026|Marktplatz in Leonberg|Timber framed houses in Leonberg|Images from Wiki Loves Monuments 2026, DE-BW",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Leonberg Marktplatz 1",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-09-01 13:55:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tragopogon\" title=\"User:Tragopogon\">Tragopogon</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "67787855": {
+        "pageid": 67787855,
+        "ns": 6,
+        "title": "File:Marktplatz - Leonberg - geo.hlipp.de - 17711.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Marktplatz_-_Leonberg_-_geo.hlipp.de_-_17711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1063,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Marktplatz_-_Leonberg_-_geo.hlipp.de_-_17711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1063
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Marktplatz_-_Leonberg_-_geo.hlipp.de_-_17711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marktplatz_-_Leonberg_-_geo.hlipp.de_-_17711.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67787855",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-03-28 20:33:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Marktplatz - Leonberg - geo.hlipp.de - 17711",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Germany photographs taken on 2011-04-09|Uploaded with pattypan|Market squares in Landkreis Böblingen|Images from Geograph Deutschland|Fountains in Leonberg|Files with coordinates missing SDC location of creation (48° N, 9° E)|Timber framing in Leonberg|Marktplatz in Leonberg|Marktplatz 5 (Leonberg)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.801140",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.015120",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Marktplatz - Leonberg",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 9 April 2011 ; 9 April 2011 (original upload date) (geo.hlipp.de)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "from <a rel=\"nofollow\" class=\"external text\" href=\"http://geo.hlipp.de/photo/17711\">geo.hlipp.de</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://geo.hlipp.de/profile/249\">K-H Lipp on geo.hlipp.de</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Creative Commons Attribution Share-alike license 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "K-H Lipp",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+import {SiteLayout,baseMetadata} from '@/components/SiteLayout'; export const metadata=baseMetadata; export default function Layout({children}:{children:React.ReactNode}){return <SiteLayout>{children}</SiteLayout>}

@@ -1,0 +1,205 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "1308447": {
+        "pageid": 1308447,
+        "ns": 0,
+        "title": "Böblingen",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Boeblingen_oberer-see_stadtkirche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 1600,
+          "height": 1200
+        },
+        "pageimage": "Boeblingen_oberer-see_stadtkirche.jpg"
+      },
+      "5408891": {
+        "pageid": 5408891,
+        "ns": 0,
+        "title": "Ditzingen",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/SpeyrerKircheDitzingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 1688,
+          "height": 2250
+        },
+        "pageimage": "SpeyrerKircheDitzingen.jpg"
+      },
+      "185637": {
+        "pageid": 185637,
+        "ns": 0,
+        "title": "Esslingen am Neckar",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Esslingen_a.N._Fall_2023.jpg/1920px-Esslingen_a.N._Fall_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 805
+        },
+        "pageimage": "Esslingen_a.N._Fall_2023.jpg"
+      },
+      "1880676": {
+        "pageid": 1880676,
+        "ns": 0,
+        "title": "Fellbach",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg/1920px-Fellbach_from_Str%C3%BCmpfelbach_-_Oct_16%2C_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 901
+        },
+        "pageimage": "Fellbach_from_Strümpfelbach_-_Oct_16,_2021.jpg"
+      },
+      "5233460": {
+        "pageid": 5233460,
+        "ns": 0,
+        "title": "Filderstadt",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bonlanden_Franzosenschule_01.jpg/1920px-Bonlanden_Franzosenschule_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 1200
+        },
+        "pageimage": "Bonlanden_Franzosenschule_01.jpg"
+      },
+      "101832": {
+        "pageid": 101832,
+        "ns": 0,
+        "title": "Freiburg im Breisgau",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Freiburg_im_Breisgau_M%C3%BCnster.jpg/1920px-Freiburg_im_Breisgau_M%C3%BCnster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 1394
+        },
+        "pageimage": "Freiburg_im_Breisgau_Münster.jpg"
+      },
+      "46743": {
+        "pageid": 46743,
+        "ns": 0,
+        "title": "Heidelberg",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/1920px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 844
+        },
+        "pageimage": "Königstuhl,_Heidelberg,_U-17.jpg"
+      },
+      "306485": {
+        "pageid": 306485,
+        "ns": 0,
+        "title": "Heilbronn",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Heilbronn_Innenstadt_u_Wartberg_20050918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 1504,
+          "height": 1000
+        },
+        "pageimage": "Heilbronn_Innenstadt_u_Wartberg_20050918.jpg"
+      },
+      "105036": {
+        "pageid": 105036,
+        "ns": 0,
+        "title": "Karlsruhe",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg/1920px-Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 800
+        },
+        "pageimage": "Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg"
+      },
+      "5218032": {
+        "pageid": 5218032,
+        "ns": 0,
+        "title": "Leonberg",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/LeonbergMarktplatz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 800,
+          "height": 600
+        },
+        "pageimage": "LeonbergMarktplatz.jpg"
+      },
+      "724644": {
+        "pageid": 724644,
+        "ns": 0,
+        "title": "Ludwigsburg",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/1920px-Ludwigsburg_Palace_December_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 581
+        },
+        "pageimage": "Ludwigsburg_Palace_December_2018.jpg"
+      },
+      "99627": {
+        "pageid": 99627,
+        "ns": 0,
+        "title": "Mannheim",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg/1920px-Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 1067
+        },
+        "pageimage": "Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg"
+      },
+      "549161": {
+        "pageid": 549161,
+        "ns": 0,
+        "title": "Pforzheim",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg/1920px-Panorama_Nagold%2C_Stadtkirche_und_Enz_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 797
+        },
+        "pageimage": "Panorama_Nagold,_Stadtkirche_und_Enz_(1).jpg"
+      },
+      "853129": {
+        "pageid": 853129,
+        "ns": 0,
+        "title": "Reutlingen",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Reutlingen_Achalm_2012-04.jpg/1920px-Reutlingen_Achalm_2012-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 900
+        },
+        "pageimage": "Reutlingen_Achalm_2012-04.jpg"
+      },
+      "532174": {
+        "pageid": 532174,
+        "ns": 0,
+        "title": "Sindelfingen",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sindelfingen_martinskirche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 480,
+          "height": 640
+        },
+        "pageimage": "Sindelfingen_martinskirche.jpg"
+      },
+      "28565": {
+        "pageid": 28565,
+        "ns": 0,
+        "title": "Stuttgart",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg/1920px-Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 807
+        },
+        "pageimage": "Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg"
+      },
+      "189455": {
+        "pageid": 189455,
+        "ns": 0,
+        "title": "Ulm",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ulm_Panorama_01.jpg/1920px-Ulm_Panorama_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 779
+        },
+        "pageimage": "Ulm_Panorama_01.jpg"
+      },
+      "173480": {
+        "pageid": 173480,
+        "ns": 0,
+        "title": "Waiblingen",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg/1920px-Marktplatz_4%2C_Rathaus_Waiblingen_20220702_0129.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1600,
+          "height": 1065
+        },
+        "pageimage": "Marktplatz_4,_Rathaus_Waiblingen_20220702_0129.jpg"
+      }
+    }
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "language": "en",
+  "status": "complete_location_drafts_pending_factual_review",
+  "source": "Business address and target-location groups supplied by the user; service coverage has not been confirmed.",
+  "businessAddress": "Mercedesstraße 12, 71063 Sindelfingen, Germany",
+  "phone": "+491721416144",
+  "researchStatus": "See docs/seo-research.md; six competitors per city not yet completed",
+  "technicalTestStatus": "pilot_build_and_static_checks_passed_2026-10-31",
+  "seoPerformanceStatus": "not_measured",
+  "locations": [
+    {
+      "slug": "stuttgart",
+      "city": "Stuttgart",
+      "group": "Stuttgart and region",
+      "pilot": true,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "title": "Enquire about door opening in Stuttgart | Güngör Demir",
+      "h1": "Locked out of your apartment in Stuttgart?",
+      "enquiryNote": "For an enquiry from Stuttgart, please provide the full call-out address and say whether the building entrance or apartment door is affected. Güngör Demir’s stated business address is in Sindelfingen; availability for Stuttgart will be checked for your enquiry.",
+      "sections": [
+        {
+          "heading": "What happened?",
+          "body": "A door that has simply fallen shut needs a different assessment from one locked with a key. Please describe its condition and say whether the key is still in the lock on the inside."
+        },
+        {
+          "heading": "Clarify travel arrangements and costs before booking",
+          "body": "Ask about availability, travel to your Stuttgart address, the total price and any surcharges. This draft does not promise a fixed arrival time or a local branch."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is saying Stuttgart enough for an enquiry?",
+          "answer": "The full street address and house number help with the assessment. Also say which door is affected and how it was closed or locked."
+        },
+        {
+          "question": "Does a lockout always require a new cylinder?",
+          "answer": "Being locked out does not establish that a replacement is needed. The door condition, any fault and whether a key has been lost need to be assessed; discuss any replacement and its cost beforehand."
+        }
+      ],
+      "description": "Ask Güngör Demir about door opening in Stuttgart. Discuss the door condition, call-out address, possible travel arrangements and total cost.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "fellbach",
+      "city": "Fellbach",
+      "group": "Stuttgart and region",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For an enquiry from Fellbach, it helps to know whether only your apartment door is blocking access or whether you cannot get through the building entrance either. Availability must be confirmed for the exact address.",
+      "title": "Enquire about door opening in Fellbach | Güngör Demir",
+      "h1": "Locked out of your apartment in Fellbach?",
+      "description": "Enquire about door opening in Fellbach: identify the building entrance or apartment door, explain access and check availability and costs beforehand.",
+      "sections": [
+        {
+          "heading": "Describe the building entrance and apartment door separately",
+          "body": "Is the building entrance open while your apartment door remains shut? Or can you not enter the building at all? This distinction helps define the requested work. Provide the exact address in Fellbach and identify the affected door."
+        },
+        {
+          "heading": "What to include in your enquiry",
+          "body": "Explain whether the door has simply fallen shut or has been locked. If more than one door needs opening, discuss this explicitly before a possible call-out. Check availability and the total cost for the specific job."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Should I mention that the building entrance is also closed?",
+          "answer": "Yes. Another door blocking access can change the job. Discuss which doors are affected and which you are entitled to enter."
+        },
+        {
+          "question": "Has a call-out to Fellbach already been promised?",
+          "answer": "No. Availability for your address and preferred time will be checked by phone."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "waiblingen",
+      "city": "Waiblingen",
+      "group": "Stuttgart and region",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Waiblingen, explain whether the door has simply fallen shut or was locked with a key. Then clarify availability and the total cost for your address.",
+      "title": "Enquire about door opening in Waiblingen | Güngör Demir",
+      "h1": "Has your door in Waiblingen fallen shut or been locked?",
+      "description": "Enquire about door opening in Waiblingen: describe the door condition, discuss the likely work and clarify travel and total cost before booking.",
+      "sections": [
+        {
+          "heading": "Simply pulled shut or actually locked?",
+          "body": "A door can latch shut without its bolt having been extended with a key. Before making your enquiry from Waiblingen, consider whether someone last locked it. If you do not know, say so rather than guessing."
+        },
+        {
+          "heading": "The assessment may change on site",
+          "body": "The door, its fittings and any fault cannot be fully assessed remotely. Ask for the proposed work to be explained and clarify how any additional work will be agreed. A blanket promise of damage-free opening would not be reliable."
+        }
+      ],
+      "faq": [
+        {
+          "question": "What should I say if I do not know whether the door was locked?",
+          "answer": "Describe only what you observed: for example, that the door fell shut or that the key was turned. Further assessment depends on the specific situation."
+        },
+        {
+          "question": "Is a door that has fallen shut always a straightforward job?",
+          "answer": "No. The door construction, fittings or a fault can also affect the work required. Ask about the scope and costs for your case."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "filderstadt",
+      "city": "Filderstadt",
+      "group": "Stuttgart and region",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Filderstadt, please say whether a key is in the lock on the inside and whether a spare key is accessible. This does not guarantee that the door can be opened; the door and cylinder need assessment.",
+      "title": "Enquire about door opening in Filderstadt | Güngör Demir",
+      "h1": "Key left in the inside lock in Filderstadt?",
+      "description": "Enquire about door opening in Filderstadt when a key is left inside. Discuss the cylinder function, spare key, availability and possible costs.",
+      "sections": [
+        {
+          "heading": "A key left inside is an important detail",
+          "body": "When enquiring for Filderstadt, say whether the key is in the lock on the inside and whether the door is locked. Also mention whether you have a matching spare key with you. These facts alone do not establish a suitable opening method."
+        },
+        {
+          "heading": "An emergency function depends on the cylinder specification",
+          "body": "Some cylinders allow a key to be used from outside even when another key is inserted inside. This depends on the model and version. Do not force the key to turn; mention any unusual resistance when making your enquiry."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can every door be unlocked from outside when a key is left inside?",
+          "answer": "No. This depends partly on the cylinder function and the door condition. Any emergency function must be part of the particular cylinder specification."
+        },
+        {
+          "question": "What details help with an enquiry from Filderstadt?",
+          "answer": "Provide the address, say whether the door was locked, whether a spare key is available and whether it can be operated without force."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "ditzingen",
+      "city": "Ditzingen",
+      "group": "Stuttgart and region",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For an enquiry from Ditzingen, provide the address and mention any visible damage to the key or door fittings. This helps clarify the problem before a possible call-out.",
+      "title": "Enquire about door opening in Ditzingen | Güngör Demir",
+      "h1": "Broken key in Ditzingen?",
+      "description": "Enquire about door opening in Ditzingen after a key breaks. Discuss the fragment, door condition and possible replacement; opening is not guaranteed.",
+      "sections": [
+        {
+          "heading": "Where is the broken piece?",
+          "body": "For an enquiry from Ditzingen, it matters whether the key broke inside the cylinder and whether the door can still be opened. Keep any remaining key pieces and describe what happened immediately before it broke."
+        },
+        {
+          "heading": "Avoid further damage",
+          "body": "Do not try to force the remaining piece to turn or push it deeper into the cylinder. Whether removing it is enough or a replacement is necessary depends on the damage. Discuss cylinder work and possible materials beforehand."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does a broken key always mean the cylinder must be replaced?",
+          "answer": "Not necessarily. What matters is whether the fragment can be removed and whether the cylinder is damaged. The specific case needs assessment."
+        },
+        {
+          "question": "Does the other piece of the key help with the assessment?",
+          "answer": "It can help explain the break. It does not replace an assessment of the fitted cylinder."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "sindelfingen",
+      "city": "Sindelfingen",
+      "group": "Surrounding towns and cities",
+      "pilot": true,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "title": "Enquire about door opening in Sindelfingen | Güngör Demir",
+      "h1": "Locked out in Sindelfingen? Enquire about door opening",
+      "enquiryNote": "Güngör Demir’s stated business address is Mercedesstraße 12, 71063 Sindelfingen. Please provide the actual call-out address when enquiring; the business address alone does not confirm shop opening hours or current availability.",
+      "sections": [
+        {
+          "heading": "Your call-out address matters",
+          "body": "Call +49 172 1416144 and explain which door is affected. Please distinguish the address of the apartment you cannot enter from the business address on Mercedesstraße."
+        },
+        {
+          "heading": "Before a door is opened",
+          "body": "Discuss the door condition, possible approach and costs. Your right to enter the apartment must also be established. If your documents are locked inside, mention this when making your enquiry."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I visit Mercedesstraße 12 without an appointment?",
+          "answer": "The stated business address does not confirm staffed shop hours. Arrange a visit or a mobile door-opening enquiry by phone."
+        },
+        {
+          "question": "What should I have ready when I call?",
+          "answer": "The exact call-out address, a description of the door condition and information about your right to enter help clarify the request. Ask about the total price and any additional costs."
+        }
+      ],
+      "description": "Locked out in Sindelfingen? Contact Güngör Demir on +49 172 1416144. Clarify the address, door condition and possible costs beforehand.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "boeblingen",
+      "city": "Böblingen",
+      "group": "Surrounding towns and cities",
+      "pilot": true,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "title": "Enquire about door opening in Böblingen | Güngör Demir",
+      "h1": "Door shut in Böblingen? Discuss your door-opening enquiry",
+      "enquiryNote": "A possible door opening in Böblingen is assessed using your exact address. The known business address is in Sindelfingen; naming Böblingen as a target location does not establish a branch there.",
+      "sections": [
+        {
+          "heading": "Key forgotten or lost?",
+          "body": "Say whether the key is inside the apartment or cannot be found. If a key has been lost, further questions about securing the apartment may arise after opening; any replacement needs a separate discussion."
+        },
+        {
+          "heading": "Agree the specific call-out first",
+          "body": "For your address in Böblingen, clarify availability, travel and costs before booking. Even a door that has simply fallen shut cannot be guaranteed to open without damage in every case."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is there a confirmed branch in Böblingen?",
+          "answer": "This draft lists only the business address at Mercedesstraße 12 in Sindelfingen. It does not establish a branch in Böblingen."
+        },
+        {
+          "question": "Can I ask for a price for Böblingen beforehand?",
+          "answer": "Describe the door condition and address, then ask for the total price including travel, surcharges and possible materials. No binding rates have been confirmed in this draft."
+        }
+      ],
+      "description": "Enquire about door opening for Böblingen: explain whether your key was forgotten or lost, describe the door and check availability and possible total cost.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "ludwigsburg",
+      "city": "Ludwigsburg",
+      "group": "Surrounding towns and cities",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Ludwigsburg, make clear during the enquiry whether a key was lost or is simply inside the apartment. Discuss a possible call-out and any additional work separately.",
+      "title": "Enquire about door opening in Ludwigsburg | Güngör Demir",
+      "h1": "Lost your apartment key in Ludwigsburg?",
+      "description": "Enquire about door opening in Ludwigsburg after losing a key. Discuss access and any further security work separately, and clarify travel and costs.",
+      "sections": [
+        {
+          "heading": "Lost is different from locked inside",
+          "body": "If the key can no longer be found, mention this when making your enquiry from Ludwigsburg. Also explain whether the door was last locked. A key left inside the apartment raises different questions from a lost key."
+        },
+        {
+          "heading": "Separate opening from any further security work",
+          "body": "Once access is restored, losing a key may raise the question of replacing the cylinder. Discuss the need, compatibility and cost separately. An instruction to open the door alone should not be treated as blanket consent to additional materials."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does every lost key require a replacement cylinder?",
+          "answer": "There is no universal answer. Whether the key can be linked to the address and the specific living arrangements should be considered."
+        },
+        {
+          "question": "Should I mention an available spare key?",
+          "answer": "Yes. An accessible spare key may be important when discussing the situation. Whether it opens the door also depends on the door condition and cylinder."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "esslingen-am-neckar",
+      "city": "Esslingen am Neckar",
+      "group": "Surrounding towns and cities",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For an enquiry from Esslingen am Neckar, say whether you can enter the building. A closed building entrance and a closed apartment door may be two separate issues.",
+      "title": "Enquire about door opening in Esslingen am Neckar | Güngör Demir",
+      "h1": "Locked out in Esslingen am Neckar with your documents inside?",
+      "description": "Enquire about door opening for Esslingen am Neckar. Discuss documents locked inside, your right to enter, the door condition and the specific call-out.",
+      "sections": [
+        {
+          "heading": "Mention proof of access early",
+          "body": "If your ID is inside the closed apartment, mention this when making your enquiry from Esslingen am Neckar. Before opening, your right to enter must be established. The documents or other evidence available need to be discussed for your situation."
+        },
+        {
+          "heading": "Describe access to the building",
+          "body": "Say whether you are in the stairwell or the building entrance is also closed. Provide the exact address and identify the apartment. Availability and costs are requested for this specific scope of work."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can the door be opened without checking my right to enter?",
+          "answer": "Your right to enter needs to be established before a door is opened. Discuss beforehand what evidence you can provide."
+        },
+        {
+          "question": "What if all my documents are inside the apartment?",
+          "answer": "Mention this at first contact. An appropriate way to check your right to enter needs to be agreed for your situation; no general promise can be made."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "leonberg",
+      "city": "Leonberg",
+      "group": "Surrounding towns and cities",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Leonberg, a precise description helps: does the key refuse to turn, has it broken, or is it missing? Availability for your address will be checked beforehand.",
+      "title": "Enquire about door opening in Leonberg | Güngör Demir",
+      "h1": "Key no longer turning in Leonberg?",
+      "description": "Enquire about door opening in Leonberg for a jammed lock. Describe the symptoms and door condition; discuss assessment, possible replacement and total cost.",
+      "sections": [
+        {
+          "heading": "Describe the symptoms as precisely as possible",
+          "body": "Specific observations help with an enquiry from Leonberg: can you insert the key but not turn it? Does it turn without opening the door? Or is it stuck? Describe only what you notice; the cause may become clear only after inspection."
+        },
+        {
+          "heading": "Assessment before replacement",
+          "body": "A key that is difficult to turn does not prove which component is faulty. Applying more force can cause damage. First clarify whether a call-out is possible, then discuss the assessment, approach and possible material costs."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Should I turn the key harder?",
+          "answer": "Do not apply more force when there is unusual resistance. A broken key can make the situation more difficult."
+        },
+        {
+          "question": "Does this automatically mean the cylinder is faulty?",
+          "answer": "No. Other parts of the door or locking mechanism may also be involved. The cause cannot be reliably identified without assessment."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "mannheim",
+      "city": "Mannheim",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "Mannheim is part of the requested wider target area. Ask explicitly whether your address can be served and what travel costs apply; the target list is not a confirmation of service.",
+      "title": "Enquire about door opening in Mannheim | Güngör Demir",
+      "h1": "Door opening for Mannheim: check availability first",
+      "description": "Ask Güngör Demir first about availability and travel for Mannheim. Discuss the door condition, preferred time and total cost for the specific request.",
+      "sections": [
+        {
+          "heading": "A target location is not a confirmed call-out",
+          "body": "Mannheim is among the requested target locations. Güngör Demir’s known business address is in Sindelfingen. First ask explicitly whether your particular job in Mannheim can be accepted; this page does not establish a local team."
+        },
+        {
+          "heading": "Agree the scope before booking",
+          "body": "Provide the full address, preferred time and whether the door has simply fallen shut or has been locked. Include possible travel charges and the scope of work in the price discussion. No fixed arrival time is promised here."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is a local branch in Mannheim confirmed?",
+          "answer": "No. The stated business address is Mercedesstraße 12 in Sindelfingen. Acceptance of an enquiry from Mannheim needs to be checked separately."
+        },
+        {
+          "question": "Which costs should I explicitly ask about?",
+          "answer": "Ask about the total price, travel, any time-dependent surcharges and the materials needed for your specific case."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "karlsruhe",
+      "city": "Karlsruhe",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Karlsruhe, acceptance of the job and travel arrangements need separate clarification. Describe the door condition and ask about the full scope of work before booking.",
+      "title": "Enquire about door opening in Karlsruhe | Güngör Demir",
+      "h1": "Door opening in Karlsruhe: agree the scope clearly",
+      "description": "Enquire about door opening for Karlsruhe and distinguish opening, travel and additional work. Availability and prices are checked for the specific job.",
+      "sections": [
+        {
+          "heading": "What exactly are you requesting?",
+          "body": "If you are locked out in Karlsruhe, begin with your goal: gaining access to your apartment. Cylinder replacement or other work are separate matters that may be discussed after assessment. An enquiry alone is not consent to a replacement part."
+        },
+        {
+          "heading": "Discuss the total price and any changes",
+          "body": "Check whether the address can be served and which services the agreed price includes. If a different level of work becomes apparent on site, it should be explained and agreed before additional work begins."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does door opening automatically include a new cylinder?",
+          "answer": "That depends on the agreed scope and the situation. Ask explicitly whether materials are included and when a replacement would be necessary."
+        },
+        {
+          "question": "Does a single flat price make sense for every door?",
+          "answer": "The door condition, travel, time and materials can differ. What matters is a clear agreement for your specific job."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "freiburg-im-breisgau",
+      "city": "Freiburg im Breisgau",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "These details do not confirm service coverage for Freiburg im Breisgau. First check whether help is possible, then discuss a specific appointment and price.",
+      "title": "Enquire about door opening in Freiburg im Breisgau | Güngör Demir",
+      "h1": "Enquire about door opening for Freiburg im Breisgau",
+      "description": "Check possible availability for Freiburg im Breisgau. Describe the door, need and timing; local coverage and a fixed arrival time are not confirmed.",
+      "sections": [
+        {
+          "heading": "Check availability before making further plans",
+          "body": "The available business information does not confirm service coverage for Freiburg im Breisgau. First ask whether help at your address is possible. Neither the page title nor the business address in Sindelfingen amounts to a promise of service."
+        },
+        {
+          "heading": "Explain your current situation",
+          "body": "Say whether you are currently locked out of your apartment or are seeking a planned appointment for a door problem. This helps put the enquiry in context. Agree any possible call-out and its costs only after availability has been checked."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is immediate help for Freiburg confirmed?",
+          "answer": "No. Availability and a possible time must be explicitly checked for your enquiry."
+        },
+        {
+          "question": "Can I also request a planned appointment?",
+          "answer": "You can state your preferred time window. The business must specifically confirm whether the job can be accepted."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "heidelberg",
+      "city": "Heidelberg",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "An enquiry from Heidelberg should include your exact address and preferred time. Naming the target location does not establish local presence or a particular arrival time.",
+      "title": "Enquire about door opening in Heidelberg | Güngör Demir",
+      "h1": "Locked out in Heidelberg? Discuss the door and timing",
+      "description": "Enquire about door opening for Heidelberg: provide the door condition, address and preferred time. Coverage and travel must be specifically confirmed.",
+      "sections": [
+        {
+          "heading": "Give specific details rather than only asking for a price",
+          "body": "An enquiry from Heidelberg is easier to assess when you provide the address, door condition and preferred time. A key left inside the lock or a visible fault also belongs in the description. A general starting price does not establish the full cost of your job."
+        },
+        {
+          "heading": "Discuss timing without assuming availability",
+          "body": "Say when you need help and have possible acceptance confirmed. The available details do not establish fixed operating hours or a local standby service for Heidelberg. Discuss travel and any surcharges for the agreed time."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Are evening or weekend appointments definitely available?",
+          "answer": "This availability has not been confirmed here. Ask about your specific time and any surcharges."
+        },
+        {
+          "question": "Is a photograph enough for a binding price?",
+          "answer": "A photograph can supplement a description but does not show every component or condition. The details needed for a reliable agreement must be clarified for your case."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "heilbronn",
+      "city": "Heilbronn",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Heilbronn, please ask about specific availability beforehand. Say whether the door is locked or cannot be opened because of a fault.",
+      "title": "Enquire about door opening in Heilbronn | Güngör Demir",
+      "h1": "Have your key but cannot open the door in Heilbronn?",
+      "description": "Enquire about door opening for Heilbronn when the mechanism is jammed. Describe what you notice, check availability and discuss the possible work beforehand.",
+      "sections": [
+        {
+          "heading": "When you have the key but the door stays shut",
+          "body": "For an enquiry from Heilbronn, it matters whether the key turns and whether the handle moves. Describe unusual sounds or resistance without forcing any parts. These details alone do not provide a definite diagnosis."
+        },
+        {
+          "heading": "The locking mechanism and cylinder are different components",
+          "body": "Not every problem starts in the cylinder. The lock case or locking mechanism may also be involved. First check availability for your address, then ask for any necessary work or replacement and its costs to be explained."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does a new cylinder solve every door problem?",
+          "answer": "No. If other components are jammed or faulty, replacing the cylinder may not address the problem. The cause needs assessment."
+        },
+        {
+          "question": "Can a faulty locking mechanism change the work required?",
+          "answer": "Yes. The actual condition affects the approach and possible replacement parts. Discuss any additional work before it is carried out."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "ulm",
+      "city": "Ulm",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Ulm, availability and travel arrangements must be explicitly agreed. A general target-location page does not replace confirmation for your apartment and preferred time.",
+      "title": "Enquire about door opening in Ulm | Güngör Demir",
+      "h1": "Door opening for Ulm: agree travel and the job",
+      "description": "Ask specifically about availability, travel arrangements and total cost for Ulm. No fixed arrival time or confirmed local branch is stated.",
+      "sections": [
+        {
+          "heading": "Travel belongs in the price discussion",
+          "body": "For a possible call-out in Ulm, explicitly discuss travel as well as door opening. Provide the full address and ask which charges are included in the agreed total price. No local branch is confirmed here."
+        },
+        {
+          "heading": "Report changes to your situation promptly",
+          "body": "If a spare key turns up or your needs change, tell the business. Before booking, also discuss how rescheduling or cancellation would be handled. This text does not promise any specific cancellation or travel terms."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is travel to Ulm free?",
+          "answer": "There is no confirmed information on this. Clarify travel charges and every other price component before booking."
+        },
+        {
+          "question": "What if I can unlock the door myself in the meantime?",
+          "answer": "Inform the business immediately and clarify the next steps under the terms specifically agreed for your booking."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "pforzheim",
+      "city": "Pforzheim",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Pforzheim, say whether the building or apartment key is affected and whether a spare key is available. Have a possible call-out to your address confirmed.",
+      "title": "Enquire about door opening in Pforzheim | Güngör Demir",
+      "h1": "Door opening in Pforzheim and cylinder compatibility",
+      "description": "Enquire about door opening for Pforzheim. Describe the door and existing system; model examples do not establish compatibility or availability.",
+      "sections": [
+        {
+          "heading": "Describe the existing locking system",
+          "body": "A known model name can supplement an enquiry from Pforzheim. ABUS D6X, DOM ix TwinStar and EVVA 4KS are examples of real systems. Naming them does not promise that a particular model is in stock, can be installed or can be opened in every situation."
+        },
+        {
+          "heading": "Check dimensions and features for the specific door",
+          "body": "If replacement is being considered, the cylinder dimensions, version and compatibility with the door need to be suitable. Discuss requirements and possible costs before ordering or installation. Acceptance of a job for Pforzheim must be confirmed separately."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I simply choose any cylinder model?",
+          "answer": "A model name alone is not enough. Dimensions, features and the existing door must be considered."
+        },
+        {
+          "question": "Does Güngör Demir have the named models in stock?",
+          "answer": "Stock or a delivery commitment has not been confirmed here. Ask about the specific model and suitable version."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    },
+    {
+      "slug": "reutlingen",
+      "city": "Reutlingen",
+      "group": "Other cities in Baden-Württemberg",
+      "pilot": false,
+      "status": "draft",
+      "coverageConfirmed": false,
+      "noindex": true,
+      "enquiryNote": "For Reutlingen, first clarify whether the job can be accepted, then discuss the costs of opening, travel and possible materials. Additional work should be agreed separately.",
+      "title": "Enquire about door opening in Reutlingen | Güngör Demir",
+      "h1": "Door opening for Reutlingen with a clear agreement",
+      "description": "Enquire about door opening for Reutlingen: distinguish opening from possible additional work, check availability and agree costs clearly.",
+      "sections": [
+        {
+          "heading": "From gaining access to checking the door works",
+          "body": "When enquiring from Reutlingen, say whether the door has simply fallen shut or was already difficult to close. Opening the door and repairing another fault are not necessarily the same scope of work. Discuss exactly what should be checked and carried out."
+        },
+        {
+          "heading": "Keep the work and materials clearly documented",
+          "body": "Before a possible booking, ask about opening costs, travel and materials. If additional work appears necessary, have its purpose and price explained. Agree how the completed work will be documented; specific payment methods have not been confirmed here."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Should the door be checked after opening?",
+          "answer": "Checking together that the door opens and closes helps identify any remaining problems. Any further work needs a separate discussion."
+        },
+        {
+          "question": "Which payment methods are available in Reutlingen?",
+          "answer": "These details do not confirm any payment methods. Clarify payment together with availability and costs before booking."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Service coverage",
+        "Working hours",
+        "Prices and surcharges"
+      ]
+    }
+  ],
+  "technicalTestEvidence": [
+    "Parent agent reported successful build with 38 static pages.",
+    "Parent agent reported check-site: 33 content pages, 1472 internal references, 18 locations.",
+    "Parent agent reported 14 CSS, font and design files unchanged.",
+    "Expanded editorial drafts still require integration and a fresh build."
+  ],
+  "researchGaps": [
+    "Localized Google top-six ranks have not been measured.",
+    "Six distinct competitor domains have not been inspected for every city.",
+    "Business coverage, working hours and prices still require confirmation."
+  ]
+}
